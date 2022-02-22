@@ -1,0 +1,1789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seduction of Arthington by Hacket especiallie with some tokens of his vnfained repentance and submission. Written by the said Henrie Arthington, the third person, in that wofull tragedie.</title>
+            <author>H. A. (Henry Arthington)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21681</idno>
+            <idno type="STC">STC 799</idno>
+            <idno type="STC">ESTC S100244</idno>
+            <idno type="EEBO-CITATION">99836090</idno>
+            <idno type="PROQUEST">99836090</idno>
+            <idno type="VID">337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 337)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 277:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seduction of Arthington by Hacket especiallie with some tokens of his vnfained repentance and submission. Written by the said Henrie Arthington, the third person, in that wofull tragedie.</title>
+                  <author>H. A. (Henry Arthington)</author>
+               </titleStmt>
+               <extent>[8], 63, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. B[ourne] for Thomas Man, dwelling in Pater noster row, at the signe of the Talbot,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1592]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name and publication date from STC.</note>
+                  <note>"Arthingtons lamentation being held close prisoner", in verse, p. [65]-[72].</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>H. A. --  (Henry Arthington)</term>
+               <term>Hacket, William, d. 1591 --  Controversial literature.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-04</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:337:1"/>
+            <pb facs="tcp:337:1"/>
+            <p>THE SEDVCTION of Arthington by Hacket eſpeciallie, with ſome tokens of his vnfained repen<g ref="char:EOLhyphen"/>tance and Submiſſion.</p>
+            <p>
+               <hi>Written by the ſaid Henrie Arthington, the third perſon, in that wofull Tragedie.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Pſal.</hi> 34. <hi>verſ.</hi> 16. <hi>and</hi> 17.</bibl>
+               <p>The face of the Lorde is againſt them that do euill, to cut off their remem<g ref="char:EOLhyphen"/>brance from the earth.</p>
+               <p>But when the Righteous crie, the Lord heareth them, and deliuereth them out of all their troubles.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Idem. verſe.</hi> 21. <hi>and</hi> 22.</bibl>
+               <p>Malice ſhall ſlaie the wicked, and they that hate the righteous ſhal periſh.</p>
+               <p>But the Lord redeemeth the ſoules of his ſeruants, and none that truſte in him ſhall periſh.</p>
+            </q>
+            <figure>
+               <figDesc>fleur-de-lis</figDesc>
+            </figure>
+            <p>
+               <hi>Printed by R.B. for Thomas Man, dwelling in Pater noſter</hi> row, at the ſigne of the Talbot</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:337:2"/>
+            <head>The Contents of this booke.</head>
+            <p>First, To conſider of the greatneſſe of Hac<g ref="char:EOLhyphen"/>kets ſin, in rebelling againſt Chriſt Jeſus the only ſonne of God.</p>
+            <p>Secondlie, What means hevſed to bewitch my poore ſelfe, to become one of his falſe Pro<g ref="char:EOLhyphen"/>phets, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.</p>
+            <p>Thirdlie, To ponder the greatnes of my ſin in proclaiming him Chriſt Jeſus, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.</p>
+            <p>Fourthlie, To obſerue the greatnes of Gods Almightie prouidence in my preſeruation notwithſtanding.</p>
+            <p>Fiftlie, To note the great fauours I haue found at her Maieſties hands and her Hono<g ref="char:EOLhyphen"/>rable Councel, to ſpare my life, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.</p>
+            <p>Sixtlie, To mooue all people to thankeful<g ref="char:EOLhyphen"/>neſſe on my behalfe, and to pray that my life may tend to Gods glorie.</p>
+            <p>Seuenthlie, To admoniſh al people (by my wofull example) to take heede and beware of Satans temptations.</p>
+            <p>Heervnto is added certaine meditations in Meter, which the ſayd Henrie Arthington penned in priſon, ſince his inlargement.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:337:2"/>
+            <opener>
+               <salute>To the Right Honourable, the <hi>Lords and the reſt of her Maieſties moſt</hi> Ho<g ref="char:EOLhyphen"/>nourable priuie Councell, increaſe of all <hi>graces and bleſſings needfull. <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T may be deemed an intol<g ref="char:EOLhyphen"/>lerable pride in a poor pri<g ref="char:EOLhyphen"/>ſoner (my verie good Lor<g ref="char:EOLhyphen"/>des, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>:) to preſume to write vnto your Honours after this manner, during the time of my reſtrainte, (Namelie being (as I am) a man without cre<g ref="char:EOLhyphen"/>dit, hauing not as yet her Maieſties pardon: but if my caſe be dulie conſidered (as I nothing doubt but it is with your Honours) howe that my treſpaſſe being great, mine offence publike, and my fact preiudiciall to the whole common wealth: there is none (ſaue ſuch as are deuoid of reaſon) but will allow it to be my bounden dutie, to pen and publiſh my vnfeined repen<g ref="char:EOLhyphen"/>tance, ſo ſoone as my libertie woulde permit: There hath not as yet three weekes ouerpaſſed, ſince the ſame by your Honours was granted vnto mee (for the free vſe of the priſon onelie) during the which time I haue added my inde<g ref="char:EOLhyphen"/>uor,
+<pb facs="tcp:337:3"/>
+uor (the Lorde bearing witneſſe, with a ſingle heart) to ſet downe the ſtorie of my fearefull fall, that all others (if poſſible) might by my example be warned betimes to foreſee and pre<g ref="char:EOLhyphen"/>uent the practiſes of <hi>ſatan,</hi> who ſeeketh by all meanes to bring men to deſtruction, as by this diſcourſe ſhall more plainly appeare, which be<g ref="char:EOLhyphen"/>ing now finiſhed (by Gods good direction) I could not bethinke me vnto whome more fitly to dedicate the ſame, then vnto your H H. and that for two reſpectes: The former: that next to her Maieſtie, hauing more deeply treſpaſſed againſt your H H. then any other men, I ſhould labour to be reconciled into your fauours, be<g ref="char:EOLhyphen"/>fore others. The latter, that hauing found more fauour at your H H. hands, then euer did anie, (my caſe well conſidered) both reaſon, conſci<g ref="char:EOLhyphen"/>ence, and duty requireth, that your H H. ſhould receiue the firſt fruites or teſtimonie of my true repentance, becauſe in hope thereof you exten<g ref="char:EOLhyphen"/>ded your fauor, eue to ſpare his life, that iudged himſelfe moſt worthie of death, and ſtill doe from the bottome of my heart, for ſo deepely diſhonouring my fauiour <hi>Chriſt Ieſus,</hi> and ſo greatly abuſing her Maieſtie, your <hi>H H.</hi> and all Chriſtian people: But as <hi>Dauid</hi> ſaith in the 32. Pſalme, <hi>I did confeſſe my ſinnes vnto the Lord,<note place="margin">Pſal. 32.5.</note> and he forgaue the iniquitie of my ſinnes:</hi> Euen ſo hath it falne out with my vnworthie ſelf, &amp; I ſtill liue in hope to receiue more mercie, that the ſame God will moue the heart of my ſouereigne, to
+<pb facs="tcp:337:3"/>
+grant her gratious free pardon alſo, to ſo wofull a wretch as ſueth for the ſame continually, vp<g ref="char:EOLhyphen"/>on the bowed knees of my heart and ſoule, ex<g ref="char:EOLhyphen"/>pecting dayly to heare good newes thereof: That both I and all my friendes may haue the greater cauſe to pray for her Maieſtie, and all your <hi>H H.</hi> That her highneſſe may long reign, and your <hi>H H.</hi> rule ouer vs, with much increaſe of glorie to God, of renown to her Maieſtie, of honor to your perſons, of comfort to the true ſubiect, and either of conuerſion or confuſion to all traitors, which the Almightie grant: that his goſpell may floriſh, and this Iland abound, with all wiſhed peace, proſperitie and comfort, to the good example of all other kingdomes: So be it in Chriſt. Thus humbly praying par<g ref="char:EOLhyphen"/>don, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. From my poor chamber in the Coun<g ref="char:EOLhyphen"/>ter, this 25. of Februarie. 1592.</p>
+            <closer>
+               <signed>
+                  <hi>Your H H. humble ſuppliant:</hi> Henry Arthington. priſoner.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:337:4"/>
+            <opener>
+               <salute>To the vvell diſpoſed Reader, <hi>The peace of a good Conſci<g ref="char:EOLhyphen"/>ence.</hi> 
+                  <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Hriſtian Reader, I am to giue thee to vnderſtand, that the Epiſtle before, and the booke following, were both peruſed and allowed by authoritie: and after ſent mee agayne to examine, that I might ſee and teſtifie what vpright dealing I found therein. In verie trueth, I finde nothing in ſubſtance added to the originall, but certaine wordes and ſentences chan<g ref="char:EOLhyphen"/>ged for the better. The reſt (I proteſt) is mine owne do<g ref="char:EOLhyphen"/>inges, as I was directed by the ſpirite of God: concer<g ref="char:EOLhyphen"/>ning the which worke, I doe onely craue thus much: that thou wilt take ſome time to peruſe the ſame, And if God perſwade thy hart, that I haue delt faithful<g ref="char:EOLhyphen"/>ly in diſplaying hys mercies and mine owne vnwor<g ref="char:EOLhyphen"/>thines; that thou wilt not forget to ſound out his prai<g ref="char:EOLhyphen"/>ſes, and further to intreate hys almightie Maieſtie, euen ſtill to preſerue hys vnworthieſt ſeruaunt, that my life and deathe may redound to hys glorie ſo much as is poſsible, by giuing foorth teſtimonies of vnſeyned repentance, dayly more and more.</p>
+            <p>The verie ſpeciall ende, why the Lord God doth
+<pb facs="tcp:337:4"/>
+ſpare and prolong my life, concluding with this wor<g ref="char:EOLhyphen"/>thie ſentence of ſaint <hi>Paule,</hi> (which I may with com<g ref="char:EOLhyphen"/>fort and a good conſcience iuſtifie, ſo long as I liue) <hi>viz. That Chriſt Ieſus came into this world to ſaue ſinners,</hi>
+               <note n="a" place="margin">1. Tim. 1.15.</note> 
+               <hi>of whome, (I am chiefe)</hi> beſeech<g ref="char:EOLhyphen"/>ing his goodneſſe, that (as my fearefull fall, may be a warning to all people, to beware and auoyd the practi<g ref="char:EOLhyphen"/>ſes of <hi>Satan</hi>) So my true repentance may giue a good example for euerie one to imitate. And ſo I commend thy deſires and indeuours vnto his moſte gratious di<g ref="char:EOLhyphen"/>rection and bleſsing, who is able and willing to helpe all ſuche as call vppon his name in ſpirite, and in trueth, Amen.</p>
+            <closer>
+               <signed>
+                  <hi>Thy poore welwiller, vnwor<g ref="char:EOLhyphen"/>thy the name of</hi> thy brother in Chriſt. <hi>Henry Arthington,</hi> Priſoner.</signed>
+            </closer>
+            <trailer type="illustration">
+               <figure>
+                  <figDesc>stylized lion</figDesc>
+               </figure>
+            </trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:337:5"/>
+            <pb facs="tcp:337:5"/>
+            <head>Arthingtons ſeduction and <hi>Repentance.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>E it knowne to al Chriſtian people, of what condition or callinge ſoeuer, that I <hi>(Henry Arthington priſoner)</hi> for my dangerous offence committed in proclaiming <hi>Hacket</hi> to bee Chriſt Ieſus, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. Haue longe deſired and from my heart re<g ref="char:EOLhyphen"/>queſted, to ſhewe ſome teſtimonies of my vn<g ref="char:EOLhyphen"/>feined repentance, either by word or writinge, but could not be admitted till of late, that the libertie of the priſonne was granted vnto mee: Heare now therfore with patience my humble confeſſion in manner following.</p>
+            <p>As it cannot be denied, which <hi>Peter</hi> the A<g ref="char:EOLhyphen"/>poſtle, hath recorded that <hi>Satan the old Arch-enis wie of Mankind ſeeketh<note n="a" place="margin">1. Pet. 5.8.</note> cotinually like a roring Lion whom he may deuoure:</hi> So it muſt needs be gran<g ref="char:EOLhyphen"/>ted of all, which the Apoſtle <hi>Paule</hi> noteth, That to the end he may the more eaſille deceiue, <hi>Sa<g ref="char:EOLhyphen"/>tan tranſformeth himſelfe<note n="b" place="margin">2 Co. 11.16</note> into an Angell of light.</hi> So did he ſeduce<note n="c" place="margin">Gen. 3.1, 7.</note> the woma<g ref="char:cmbAbbrStroke">̄</g> in Paradiſe, ſo did he abuſe<note n="d" place="margin">1. Samuel</note> 
+               <hi>Saule</hi> the King, in the likeneſſe of
+<pb n="2" facs="tcp:337:6"/>
+               <hi>Samuel</hi> the Prophet of God, and ſo did hee of late moſt pitifullie miſvſe <hi>Coppinger</hi> and mee, in the likeneſſe of the holieſt manne liuing in the world, cloſelie repreſented before our eies, in the perſon of that wicked Sorcerer <hi>William Hac<g ref="char:EOLhyphen"/>ket</hi> the inſtrument of Satan, or rather himſelfe a diuell incarnate, raiſed vp to ſeeke the diſho<g ref="char:EOLhyphen"/>nor of Chriſt Ieſus, and both our deſtructions ſo much as he could: As by the true report of his ſtorie enſuing ſhall more manifeſtlye ap<g ref="char:EOLhyphen"/>peare.</p>
+            <p>In the diſcourſe whereof, though I muste of neceſſitie blaze abroad mine owne infamie to all poſterities, yet hadde I rather doo the ſame to detect Satans practiſes, that others might be admoniſhed in time to take heede, then that a<g ref="char:EOLhyphen"/>nie manner of perſonne ſhould through my ſi<g ref="char:EOLhyphen"/>lence (in concealing that knowledge which I haue gained by my wofull experience) fall into that pit of endleſſe peridition, by Satans temp<g ref="char:EOLhyphen"/>tations; out of the which (by Gods Almightie prouidence) I am eſcaped.</p>
+            <p>It is not vnknowne throughout all <hi>England,</hi> there were two falſe Prophets ſet on worke in <hi>London,</hi> to proclaime that <hi>Chriſt Ieſus</hi> was come to iudge the world with his fan in his handes, <hi>Hacket</hi> that curſſed condemned wretche, was that ſuppoſed <hi>Christ Ieſus</hi> the Iudge, <hi>Edmunde Coppinger</hi> the one prophet, and I the other, The one of mercie, the other of iudgements falſlie ſo tearmed: Three vnlikelie inſtruments to ef<g ref="char:EOLhyphen"/>fect
+<pb n="3" facs="tcp:337:6"/>
+ſo great matters as were pretended, viz: ei<g ref="char:EOLhyphen"/>ther to bring all men vnto repentance, or elſe to iudge and condemne the obſtinate.<note place="margin">Good mat<g ref="char:EOLhyphen"/>ters preten<g ref="char:EOLhyphen"/>ded.</note>
+            </p>
+            <p>How my brother falſe prophet and I, beha<g ref="char:EOLhyphen"/>ued our ſelues in <hi>Cheapſide,</hi>
+               <note place="margin">16. Iuli, 1591</note> 
+               <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. running bothe into one Cart, to proclaime our curſſed newe Iudge, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: Becauſe the maner therof was com<g ref="char:EOLhyphen"/>monlie known, and that I ſuppoſe the Chroni<g ref="char:EOLhyphen"/>cler of this land, hath long before this time diſ<g ref="char:EOLhyphen"/>courſed more at large vpon our whole procee<g ref="char:EOLhyphen"/>dings, I meane not to trouble thee gentle Rea<g ref="char:EOLhyphen"/>der with new repetitions, but onely to dilate of the greatneſſe of our ſins, with the manner how my ſelfe was drawne into this action, wherein I hope to ſupplie more fullie, whatſoeuer the Chronicler hath lefte vntouched, for wante of true notice.</p>
+            <p>Firſt therefore, I will indeuour to the vtter<g ref="char:EOLhyphen"/>moſte of my skill, co deſcribe the greatneſſe of <hi>Hackets</hi> rebellion againſt the <hi>Lord Ieſus.</hi>
+            </p>
+            <p>Secondly, what meanes he vſed to bewitch my poor ſelfe to be one of thoſe falſe prophets.</p>
+            <p>Thirdlie, to conſider howe deepelie, I have treſpaſſed in proclaiming the villaine, to bee <hi>Chriſt Ieſus</hi> the Iudge, and other wiſe alſo.</p>
+            <p>Fourthlie, to obſerue notwithſtanding, the exceeding greatneſſe of Gods Almightie pro<g ref="char:EOLhyphen"/>uidence, in my preſeruation.</p>
+            <p>Fiftlie, To ſet downe theſubſtance of that Chriſtian to paſſion, which I haue found at the hands of hir excellent Maieſty, &amp; moſt honora<g ref="char:EOLhyphen"/>ble
+<pb n="4" facs="tcp:337:7"/>
+Councell.</p>
+            <p>Sixtly, To moue all manner people to bee thankfull vnto God on my behalfe, and further to aſſiſt me with their praiers, that my preſerua<g ref="char:EOLhyphen"/>tion may tende to his glorie, and the good of his Church.</p>
+            <p>Seuenthlie, To admoniſh all people (by my wofull example to take heede and beware of <hi>Satans</hi> temptations.</p>
+            <p>To come to the firſt point, concerning <hi>Hac<g ref="char:EOLhyphen"/>kets</hi> wilfull rebellion againſt the Lord <hi>Ieſus:</hi> I can deem it no leſſe (in my poore iudgement) Then to be a deep ſinne againſt the holy-ghoſt,<note place="margin">The firſte point of Hackets re<g ref="char:EOLhyphen"/>bellion.</note> which may bee the more plainelie diſcerned, both by comparing it with the ſinne againſt the holy-ghoſt (according to the Scripture) And with the like fact committed by <hi>Iudas,</hi> in betrai<g ref="char:EOLhyphen"/>eng <hi>Chriſt Ieſus</hi> the Lord of life himſelfe.</p>
+            <p>The ſinne of the Holy ghoſt as it is defined by <hi>Peter</hi> and <hi>Paule</hi> the Apoſtles of Chriſt;<note place="margin">The ſinne againſt the Holy-ghoſt defined.</note> Is <hi>A wilfull ſinning againſt the knowne truth, and a mans owne conſcience, making a mocke thereof</hi> Which may be the more aggrauated,<note place="margin">Heb. 6.4.5, 6 &amp; 10.26.29</note> 
+               <hi>By ſpitefull repro<g ref="char:EOLhyphen"/>ching the ſaid knowne truth, in contempt of</hi> Chriſt Ieſus <hi>the Author thereof.</hi>
+               <note place="margin">2. Pet. 2.20.21.</note>
+            </p>
+            <p>Oh then how groſlie and greeuouſlie maye it be feared that <hi>Hacket</hi> did commit this great ſinne againſt the Holy ghoſt, not onely in Wil<g ref="char:EOLhyphen"/>full proceeding againſte the knowne truth and his owne conſcience, but in obſtinate rebel<g ref="char:EOLhyphen"/>ling againſt the very perſon and office of <hi>Chriſt
+<pb n="5" facs="tcp:337:7"/>
+Ieſus,</hi> (peculiar onely to the euerlaſting Sonne of God in heauen) by cauſing and compelling vs poore ſoules (for ſo wee were inforced by a Deuiliſh ſpirit within vs) amongſt other things to proclaime him) <hi>Chriſt Ieſus,</hi> the Iudge of the world. Which purpoſe he had in heart before, as apeareth by giuing vs in charge to proclaim him, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.<note place="margin">Hackets pre<g ref="char:EOLunhyphen"/>ſumption, a deepe ſinne againſt the Holy ghoſt prooued.</note>
+            </p>
+            <p>Whoſe ſinne is heereby the more inlarged, by the hardneſſe of his heart, that coulde not in mans iudgement repent at his latter end, nor ſo much as vtter one Word to that ende: for if ſuch as refuſe the knowledge of God, and hare to be guided by his holy counſels, ſhal not find mercy at their latter ends<note n="d" place="margin">Pro. 1.24.30 Iſay. 1.15.</note> (though they beg hard for the ſame with teares) as the Scripture dooth record: O then, how feareful is his caſe, That at his laſt end was ſo farre off from asking pardon (being moued therevnto vpon the lad<g ref="char:EOLhyphen"/>der) that euan then he fell to banning and cur<g ref="char:EOLhyphen"/>ſing, vttering theſe or ſuch like ſpeaches.<note place="margin">Oh fearfull example. Thes words only by re<g ref="char:EOLhyphen"/>port, for I was then cloſe priſo<g ref="char:EOLhyphen"/>ner.</note> 
+               <hi>If ther be a God in Heauen, hee will either ridde mee out of theſe villaines handes, or elſe I will pull him out of his throne, &amp; within one moneth deſtroy this Cittie with fire and Brimſtone.</hi>
+            </p>
+            <p>O moſte abhominable and blaſphemous wretch, who durſt haue once vttered ſuch hor<g ref="char:EOLhyphen"/>rible ſpeeches, but he that had ſoulde his ſoule to Satan.<note place="margin">Hacket worſe then Iudas in three re<g ref="char:EOLhyphen"/>ſpects.</note> Behold yet more teſtimonie of the greatneſſe of his ſinne (I feare) againſt the Holy ghoſt, which exceeded <hi>Iudas</hi> in three reſpects.</p>
+            <p>
+               <pb n="6" facs="tcp:337:8"/>Firſt, <hi>Hacket</hi> rebelliouſlie tooke vppon him, the titles, perſon, and office of <hi>Chriſt Ieſus,</hi> but <hi>Iudas</hi> durſt neuer preſume ſo high.</p>
+            <p>Secondly, <hi>Hacket</hi> exalted himſelfe aboue the Lord <hi>leſus,</hi> for wheras <hi>Christ Ieſus,</hi> had onlie but one Prophet to go before his face, (<hi>Iohn</hi>
+               <note n="e" place="margin">Luk. 1.76.</note> 
+               <hi>Baptiſt</hi> by name) <hi>Hacket</hi> had two, but <hi>Iudas</hi> none at all.</p>
+            <p>Thirdlie, <hi>Hacket</hi> did neither repent, nor yet confeſſe his ſinnes before his death, but <hi>Iudas</hi> did both<note n="f" place="margin">Mat. 27.34.</note> after a ſort.</p>
+            <p>Wherefore it appeareth moſt euidentlie, that in theſe reſpects before mentioned, <hi>Hacket</hi> was a greater ſinner then <hi>Iudas,</hi> yea the greateſt ſin<g ref="char:EOLhyphen"/>ner that euer was heard of ſince the worlde be<g ref="char:EOLhyphen"/>gun, who no doubt if he hadde beene in <hi>Iudas</hi> roome, (and his power anſwereable to his de<g ref="char:EOLhyphen"/>ſire) woulde himſelfe haue killed the Lord of glorie, as might appeare by his afore noted moſt horrible ſpeeches vpon the ladder. Wher<g ref="char:EOLhyphen"/>fore as his end was the moſt fearefull and deſ<g ref="char:EOLhyphen"/>perate that euer was red of, ſo (if indeed he re<g ref="char:EOLhyphen"/>pented not) it may greatlie bee feared his tor<g ref="char:EOLhyphen"/>ments are moſt greeuous, of any that euer were condemned, (euen by the moſt powerfull and vpright doome, of that eternall and Almightie Iudge, whoſe office he ſought to vſurpe in this world.) And heere an end of him, though his paines happilie bee endleſſe, for his pride and preſumption againſt the Lord Ieſus, after the example of his graund-captaine <hi>Lucifer,</hi> whoe was baniſhed heauen, and made prince<note n="g" place="margin">Iohn. 14.30 Iude. 6.</note> of di<g ref="char:EOLhyphen"/>uels
+<pb n="7" facs="tcp:337:8"/>
+for the verie like offenſe.</p>
+            <p>Touching <hi>Coppingers</hi> death and temptations, (by report of himſelfe) hee had chambered in bed with <hi>Hacket,</hi> wherby I gather that (by gods permiſſion) the Sorcerer did more deepelie in<g ref="char:EOLhyphen"/>chant him, to be a meanes to take away his life. As for his death maiſter <hi>Yoong</hi> told me, that be<g ref="char:EOLhyphen"/>fore his end he deteſted <hi>Hacket</hi> and asked par<g ref="char:EOLhyphen"/>don of the almightie, whoe no doubt receiued him to mercie, for ſo hath he promiſed, that at what time ſoeuer a ſinner repenteth from the bottome of his heart, he will put al<note n="h" place="margin">Ezec. 18.23.24. and 33.11.</note> his wicked<g ref="char:EOLhyphen"/>neſſe out of his remembrance. And ſo an ende of his ſtory alſo, not minding to ſpeake any fur<g ref="char:EOLhyphen"/>ther of either, then as ſhall neceſſarilie fall out, within the compaſſe of mine own Pageant.</p>
+            <p>To come to ſpeake of mine owne ſtorie, how I was drawn to become a Stager in this fearfull Tragedie: it is holden of diuers both godlie &amp; learned,<note place="margin">Satan hath two waies to deceiue by feare and truſt.</note> that albeit <hi>Satan</hi> haue many waiees to abuſe all people: yet hath he two chiefe and eſ<g ref="char:EOLhyphen"/>ſpeciall means to ſeduce the ſimple; the one, if men feare him, the other if they truſt him.</p>
+            <p n="1">1. Touching the former (albeit I haue beene a verie grieuous ſinner manifold waies) yet ſince I came to the knoweledge of the truthe, That Chriſt Ieſus only hath conquered Satan, death, hell and damnation;<note n="i" place="margin">Ephe. 3.17. Philip. 2.11. and 3.8, 9. Col. 2.13 15 1. Iohn. 5.4. 1. Pet. 5.9.</note> and that by faith in him, hee hath made vs alſo more then conquerours, I did neuer feare the mallice of vile Satan, no not euen then when I was his
+<pb n="8" facs="tcp:337:9"/>
+vaſſall. In the latter point therefore was I ouer<g ref="char:EOLhyphen"/>taken, viz. in crediting <hi>Hacket</hi> the inſtrumente of <hi>Satan</hi> to be ſo honeſt a man, whervnto I was drawne by ſix likely reaſons.<note place="margin">2. I was drawn by ſix reſons to beleeue Hacket.</note>
+            </p>
+            <p>Firſt, by the good reporte that was giuen of him.</p>
+            <p>Secondlie, By ioyning with him in his ex<g ref="char:EOLhyphen"/>erciſes.</p>
+            <p>Thirdlie, In that he pretended the detection of traitors.</p>
+            <p>Fourthlie, By giuing credit to his blaſphe<g ref="char:EOLhyphen"/>mous hiſtorie.</p>
+            <p>Fiftlie, In feeling my ſelfe poſſeſt with a bur<g ref="char:EOLhyphen"/>ning heat within.</p>
+            <p>Sixtlie, By maiſter <hi>Coppingers</hi> report of his viſion from heauen, that wee were both Pro<g ref="char:EOLhyphen"/>phets, and <hi>Hacket</hi> greater.</p>
+            <p>And firſte, concerning the report that was made of <hi>Hacket</hi> to be ſo honeſt,<note place="margin">The firſt aſ<g ref="char:EOLhyphen"/>ſalt, by the good report of Hacket.</note> (whoe I nowe know, was a more wicked wretch, then either <hi>Simon</hi> or<note n="k" place="margin">Acts. 8.15</note> 
+               <hi>Elimas</hi> thoſe notable forcerers, men<g ref="char:EOLhyphen"/>tioned in the Acts.) About Eaſter terme laſte, the ſaid maiſter <hi>Coppinger</hi> ſent for mee to come vnto him at a friends houſe in <hi>London,</hi> where (by his meanes) I muſt needes be acquainted with this goodly gueſt, which was the firſt time that euer I knew him, where he kept the Table talke againſt Papiſts and Seminaries, how dan<g ref="char:EOLhyphen"/>gerous they were to the Queene and State: vp<g ref="char:EOLhyphen"/>on which occaſion one perſonne in companye ſaide he was welcome, bicauſe the party tooke
+<pb n="9" facs="tcp:337:9"/>
+him to be an honeſt man, If I be not honeſter then you take me (quoth <hi>Hacket</hi>) <hi>The Lord con<g ref="char:EOLhyphen"/>found me.</hi>
+               <note place="margin">Se heer the practiſe of this Sorce<g ref="char:EOLhyphen"/>rer, to curſe himſelf that we mighte credit him.</note> Which ſpeech I noted, and deemed moſt dangerous, but hauing no time then to admoniſh him thereof, ſoone after dinner I de<g ref="char:EOLhyphen"/>parted, and did ſee my companion no more till Trinitie Tearme following, being that vacati<g ref="char:EOLhyphen"/>on time in Yorkeſhire, about mine owne parti<g ref="char:EOLhyphen"/>cular occaſions, (as hundreths can witneſſe if need required) during the which ſpace (as I was informed afterwards) maſter <hi>Coppinger</hi> and <hi>Hacket</hi> had begun their <hi>Tragedie,</hi> and did write certaine letters to great eſtates, to detect pre<g ref="char:EOLhyphen"/>tended Traitors againſt hir Maieſtie: The co<g ref="char:EOLhyphen"/>pies whereof were afterwards found in <hi>Hackets</hi> Chamber, the ſame day we roſe and were car<g ref="char:EOLhyphen"/>ried I thinke to hir Maieſties Councell.</p>
+            <p>After my buſineſſe doone in the Countrey, I returned againe to <hi>London,</hi> about the middeſt of <hi>Trinitie</hi> Tearme: to diſpatch certaine cauſes of mine owne and my friendes, and for obtay<g ref="char:EOLhyphen"/>ning the great Seale of England for the foun<g ref="char:EOLhyphen"/>dation of a Free Schoole at <hi>Wakefield,</hi> accor<g ref="char:EOLhyphen"/>ding to hir Maieſties grant. So ſoone as I was knowne to bee in the Cittie, maiſter <hi>Coppinger</hi> comes vnto my Chamber, and begins to tell me (after ſalutations) that he was in my abſe<g ref="char:cmbAbbrStroke">̄</g>ce become well acquainted with the holieſt man that euer was borne, (<hi>Chriſt Ieſus</hi> excepted) hee durſt boldly auouch it before whome ſoeuer. Vnto whoſe ſpeeches (notwithſtandinge his
+<pb n="10" facs="tcp:337:10"/>
+confident proteſtations) I gaue ſmall regard at the firſt, (becauſe I had <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him not long before, to be farre ouer reached with his owne affections in matters of loue, building to much vpon vncertainties, and in ſome other pointes, (needleſſe heer to be ſtood vpon) but continu<g ref="char:EOLhyphen"/>ed willing to ioyne with him ſtill in our old ex<g ref="char:EOLhyphen"/>erciſe, vizd: to keepe a priuate faſt vpon euery Lords day, for ſome ſpeciall cauſes beſt known to our ſelues, chooſing that day commonly, the better to be furthered by publike exerciſes; keep<g ref="char:EOLhyphen"/>ping M. <hi>Gardiners,</hi> and M. <hi>Coopers</hi> Lectures for the moſt part, to viſit miſtreſſe <hi>Hon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bod</hi> in the meane ſpace, who hath beene longe and gree<g ref="char:EOLhyphen"/>uouſlie afflicted.</p>
+            <p>Vpon the Lordes day (about one fortnight before our ariſing) when the afternoone exer<g ref="char:EOLhyphen"/>ciſe was finiſhed, maiſter <hi>Coppinger</hi> would needs draw me to <hi>Hackets</hi> chamber, whither imme<g ref="char:EOLhyphen"/>diatlie he reſorted (as himſelfe ſaide) from M. <hi>Edgertons</hi> Lecture: and foorthwith begun to pray, vſing as good words as any other Chriſti<g ref="char:EOLhyphen"/>an yet denouncing the <hi>Former curſſe againſt him<g ref="char:EOLhyphen"/>ſelfe,</hi>
+               <note place="margin">Vizd. the lorde con<g ref="char:EOLhyphen"/>found him as he did indeed,</note> if he ſought not the honour of <hi>Ieſus Christ</hi> ſimplie. The varlet (as I ſince coniecture) mea<g ref="char:EOLhyphen"/>ning <hi>himſelfe,</hi> and I in charitie iudging the beſt, that he meant indeed the <hi>Lord Ieſus</hi> in heauen. After praiers ended with ſome renuing of our firſt acquaintance at <hi>Eaſter</hi> Tearme before, we parted companie for that time, beeing then re<g ref="char:EOLhyphen"/>turned vnto mine owne chamber, and medita<g ref="char:EOLhyphen"/>ting
+<pb n="11" facs="tcp:337:10"/>
+about the curſſing of himſelfe if he ſought not ſinglie the honour of <hi>Chriſt Ieſus:</hi> I did re<g ref="char:EOLhyphen"/>ſolue, that he muſt either be a wicked man wil<g ref="char:EOLhyphen"/>fullie to condemne himſelfe, if his hearte were not vpright, or elſe he was a verie rare man, and tendered the honour of <hi>Chriſt Ieſus</hi> highlie: and (as in Charitie I could not but hope the beſt) So maiſter <hi>Coppingers</hi> wordes beganne to ſettle with me,<note place="margin">The firſt aſ<g ref="char:EOLhyphen"/>ſault by M. Coppingers report.</note> that he was a rare man indeed. Thus did I make the firſt way for the wretched Cay<g ref="char:EOLhyphen"/>tiſe to aſſault me, who knowing my good opi<g ref="char:EOLhyphen"/>nion of him by maiſter <hi>Coppinger,</hi> the next time that he had intercourſe between vs, <hi>Hacket</hi> cea<g ref="char:EOLhyphen"/>ſed not to moue him to drawe mee the ſecond time into his companie: and that was by ma<g ref="char:EOLhyphen"/>king me acquainted with, their proceedinges in my abſence; for about two or three daies after, comes maiſter; <hi>Coppinger</hi> vnto my chamber, and brings with him a packet of writings, which I muſt needes be made priuie vnto, but I refuſed at the firſt, and ſaid I would not enter into their ſecrets, yet after that maiſter <hi>Coppinger</hi> told me, they were only copies of certaine letters which they two had written and ſent alreadye to ſome of great account about the Court, for the detection of ſuppoſed Traitours, vnto the <hi>Queene</hi> and State: Then I thought there could be no danger at all in pervſing of them: wher<g ref="char:EOLhyphen"/>in when I ſee them ſo bolde, as to name the perſonnes ſuspected, and to auouche theyr accuſaſions vpon the hazzard &amp; perrill of their
+<pb n="12" facs="tcp:337:11"/>
+owne liues, I deemed neither of them ſo mad, or deuoide of grace, or careleſſe of their owne eſtate, (maiſter <hi>Coppinger</hi> being ſworne to her Maieſties ſeruice) ſo hotly to proſecute ſo dan<g ref="char:EOLhyphen"/>gerous a ſute, which muſt either turne to their owne, or their betters deſtruction: but that they could iuſtifie what they had written: and ſo gaue the rather credit vnto them,<note place="margin">The ſecond aſſault by writings.</note> which was the ſecond meanes for <hi>Satan</hi> to aſſault me.</p>
+            <p>After this time I was the more willing to fre<g ref="char:EOLhyphen"/>quent <hi>Hackets</hi> companie (as a manne whome I thought true hearted to hir Maieſtie) who then diſcourſed vnto me at large, what troubles and afflictions he had indured at the handes of Pa<g ref="char:EOLhyphen"/>piſts for the Goſpels ſake: all to make mee be<g ref="char:EOLhyphen"/>leeue he was ſingle minded that way,<note place="margin">All lies.</note> &amp; ſought the honour of <hi>Ieſus,</hi> no man more: which I was the eaſlier perſwaded to grant, by his holye ex<g ref="char:EOLhyphen"/>erciſes and conuerſation (which were all Saint like,<note place="margin">See Satans ſubtletie to ſeduce the ſimple min<g ref="char:EOLhyphen"/>ded: which was my 3. aſſault.</note> whilſt I was with him) complaining much of the iniquitie of the time: that Religion was prophaned of all ſortes of people, by a generall infection of ſinne in all places, which could not but procure ſome plague vpon the lande, with<g ref="char:EOLhyphen"/>out ſpeedie repentance, wherevnto I condiſ<g ref="char:EOLhyphen"/>cended, and further to credite him, which was the third way for him to ſeduce me.</p>
+            <p>Shortlie after, maiſter <hi>Coppinger</hi> comes again vnto my chamber, and brings other writinges penned by himſelfe from <hi>Hackets</hi> own mouth, which was the diſcourſe of thoſe ſuppoſed in<g ref="char:EOLhyphen"/>tollerable
+<pb n="13" facs="tcp:337:11"/>
+torments, which the villaine perſua<g ref="char:EOLhyphen"/>ded him he hadde indured for the triall of the Goſpell to be the true religion, againſt Poperie and all other ſectes and Hereſies: And for the preſeruation of our Deere <hi>Soueraigne,</hi>
+               <note place="margin">Beholde the fourth waie how Satan did aſſault mee, to be<g ref="char:EOLhyphen"/>leeue Hac<g ref="char:EOLhyphen"/>kets tor<g ref="char:EOLhyphen"/>ments, in manner fol<g ref="char:EOLhyphen"/>lowing.</note> and al o<g ref="char:EOLhyphen"/>ther <hi>Princes</hi> profeſſing the Goſpell; M. <hi>Coppin<g ref="char:EOLhyphen"/>ger</hi> aſſuring me, that for the outward torments they would be iuſtified, by an hundred good witneſſes, if need required: vizd, That <hi>Hacket</hi> ſhould be tied the firſt time twentie daies vpon a bed, his armes and legs to the foure corners, and beate with a cudgell: The ſeconde time, bounde twentie daies with Iron chaines, and caſt into a ſinck-hole vpon his backe, and ſwin<g ref="char:EOLhyphen"/>ged dailie with birchen roddes: and the thirde time, bound other twentie daies vpon a bed a<g ref="char:EOLhyphen"/>gaine, in his owne dung and vrine (with reue<g ref="char:EOLhyphen"/>rence be it ſpoken) and whipped dailye with a dogge whippe: during all which times (as the ſtorie imported) The <hi>Pope,</hi> the <hi>King of Spaine</hi> &amp; all other Princes,<note place="margin">And yet be<g ref="char:EOLhyphen"/>fore his death hee called all ſuch Here<g ref="char:EOLhyphen"/>tikes.</note> that were enimies to the goſ<g ref="char:EOLhyphen"/>pell, (vppon a certaine curſſe that <hi>Hacket</hi> hadde made <hi>God to confounde him, if it were not the true Religion</hi>) had raiſed vp all ſortes of witches, in<g ref="char:EOLhyphen"/>chanters, Sorcerers and Coniurers in all king<g ref="char:EOLhyphen"/>domes, to practiſe vpon his bodie and ſoule by all kinde of tormentes, either to make him re<g ref="char:EOLhyphen"/>nounce the Goſpell, or elſe to deſtroy him: vp<g ref="char:EOLhyphen"/>on condition that if he indured conſtant with his life, they would all yeeld vnto the Goſpell, (as the true religion only) and make him chief
+<pb n="14" facs="tcp:337:12"/>
+kinge ouer all <hi>Europe,</hi> all other kings to holde their crownes of him.</p>
+            <p>Nowe the report of <hi>Hackets</hi> outwarde tor<g ref="char:EOLhyphen"/>ments appearing ſo ſtrange, and the ſtorye ſo certaine (by maiſter <hi>Coppingers</hi> teſtimonie) as he ſaid from a prencher of the Goſpell, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>; I was not only induced to credite the ſame, but to reſolue further, that the effects for <hi>Hacket</hi> to become the King of <hi>Europe,</hi> and to reforme re<g ref="char:EOLhyphen"/>ligion were likelie to follow: for I conſidered that neither could ſuch great torments bee in<g ref="char:EOLhyphen"/>dured,<note place="margin">See heer the reaſon of my great fol<g ref="char:EOLhyphen"/>ly: which was the 4. aſſault</note> either of ſoule or bodie as was mentio<g ref="char:EOLhyphen"/>ned without ſpecial aſſiſtance from God or <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> (little ſuſpecting he was a <hi>ſataniſt</hi>) neyther yet ouerpaſſing the ſame with life, but needs he muſt be deare vnto God, and preſerued to ſome good vſe in the church: for I nothing doubted of the trouth of the ſtory, becauſe beſides M. <hi>Cap<g ref="char:EOLhyphen"/>pinger</hi> report, there was diuers great witneſſes named therein: By all which meanes aforſaid, I gaue the villaine intereſt to infuſe his curſſed filthie ſpirit into me in manner following,</p>
+            <p>The laſt Lordes day before our ariſing, wee all concluded to keepe a priuate <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mayſter <hi>Coppinger</hi> and I frequenting our olde exerciſes, and left <hi>Hacket</hi> at miſtris <hi>Honiwoods</hi> in the mean ſpace, who ſaid the wicked ſpirit Satan, was fled into hir only for a refuge, but ſhe ſhoulde be diſpoſſeſt of him ſhortlle: where the villain praied, that the ſame wicked ſpirit might be gi<g ref="char:EOLhyphen"/>uen vnto him, maiſter <hi>Coppinger</hi> and I thinking
+<pb n="15" facs="tcp:337:12"/>
+he did ſo in good will to the woman, as one pi<g ref="char:EOLhyphen"/>tieng her wofull eſtate,<note place="margin">Mark heere another way that ſa<g ref="char:EOLhyphen"/>tan vſed to circumuent vs.</note> and able to caſt him out at his pleaſure: hauing indured ſo muche be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>Then wee all returned to <hi>Hackets</hi> chamber, where we finiſhed our ſaid exerciſe by praier in courſe: when the ſsme came to my poore turn conſidering the ſuppoſed intended treaſons (as you haue hearde before) I did to the vtter<g ref="char:EOLhyphen"/>moſt of my abilitie, intreat for her <hi>Maieſties</hi> ſafe preſeruation; (as the ſecret ſearcher of all harts knoweth) and ſo did maiſter <hi>Coppinger,</hi> which the Traitor perceyuing, the next time himſelfe did pray for her <hi>Maieſtie,</hi>
+               <note place="margin">Another way howe Satan abu<g ref="char:EOLhyphen"/>ſed vs.</note> and that with great af<g ref="char:EOLhyphen"/>fection as ſeemed to vs: after all doone, he im<g ref="char:EOLhyphen"/>braced me in his armes, proteſting that he ten<g ref="char:EOLhyphen"/>dered the ſafetie of her <hi>Maieſtie</hi> euerye waie, (as much as either M. <hi>Coppinger</hi> or I did:) at the which inſtant I thinke I was filled with Satans ſpirit, for before we departed, I felt my ſelfe ve<g ref="char:EOLhyphen"/>rie hot within, which I verelie then thought had beene an extraordinarie motion of the ho<g ref="char:EOLhyphen"/>lie-ghoſt, (as Chriſts Diſciples hadde going to <hi>Emaus;</hi>
+               <note n="l" place="margin">Luk. 24, 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> which the Lord had ſent downe as a bleſſing of his loue vpon our exerciſe, ſo I de<g ref="char:EOLhyphen"/>parted a very glad man,</p>
+            <p>The nexte night following as I laie in my bed, I found my ſelfe moued to pen a curſſed <hi>Propheſie</hi> againſt the citty of <hi>London, Curſſed I cal it,</hi> both in respect of the autor (the ſpirit of Sa<g ref="char:EOLhyphen"/>tan in mee:) and in regard of the matter, for
+<pb n="16" facs="tcp:337:13"/>
+the moſt part falſe and wicked. And becauſe I was not therevnto called by the Lord (though my intention to bring all people to repentance were neuer ſo holy) for the minde and know<g ref="char:EOLhyphen"/>ledge with a lawfull calling,<note place="margin">Good points.</note> muſt all ioyne to<g ref="char:EOLhyphen"/>gither in the ſeruice of God.</p>
+            <p>But before I durſt preſume to goe about ſo waightie a buſineſſe; needs muſt I goe to <hi>Hac<g ref="char:EOLhyphen"/>kets</hi> chamber to haue his direction in the mat<g ref="char:EOLhyphen"/>ter, who perſuaded me eaſilie, that I was moo<g ref="char:EOLhyphen"/>ued therevnto,<note place="margin">Mark heere the vile pra<g ref="char:EOLhyphen"/>ctiſe of Sata to abuſe,</note> by the very ſpirite of the Lorde <hi>Ieſus:</hi> (The villaine I doubt meaning himſelfe) And therevpon kneeling in his ſhirt vppon the bed, praieng for the bleſſing of Gods holy ſpi<g ref="char:EOLhyphen"/>rit to direct and proſper my trauell and labors, and after gaue me very good councell, not to relie vpon mine owne knowledge, but to de<g ref="char:EOLhyphen"/>pend for direction from aboue, for the <hi>Lorde Ieſus</hi> whoſe cauſe it was,<note place="margin">Meaning himſelfe</note> would not faile to af<g ref="char:EOLhyphen"/>fiſt mee therein and miniſter ſufficient matter vnto me (eſpecially againſt all hypocrits) who<g ref="char:cmbAbbrStroke">̄</g> he auouched the greateſt ſinners in all <hi>England</hi> and the moſte dangerous enimies both to reli<g ref="char:EOLhyphen"/>gion and to the ſtate.</p>
+            <p>Then I returned vnto my chamber, where (as the Lord knoweth) I proſecuted that work with watered plantes,<note place="margin">See my af<g ref="char:EOLhyphen"/>fection to London.</note> that I ſinfull wretche, ſhould denounce ſo heauie and fearfull judge<g ref="char:EOLhyphen"/>ments, againſt that great citty which I loued ſo dearly, euen for the exerciſes of the word ther<g ref="char:EOLhyphen"/>in, fearing (or rather expecting the euent, with
+<pb n="17" facs="tcp:337:13"/>
+out ſpeedie repentance) which I did finſſh and had twiſe written it ouer, before the wedneſday at night following. Wherein I remember that euen then (with a good conſcience) I ſet down my ſelfe, to be the greateſt ſinner, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: Oh how true hath it ſince falne out. During the which aforeſaid ſpace, vizd: betweene the <hi>Monday</hi> and the <hi>Thurſday:</hi> maiſter <hi>Coppinger</hi> had penned the ſtory of <hi>Hackets</hi> torments in a more ample ma<g ref="char:EOLhyphen"/>ner, the which the villaine was verye deſirous ſhould accompanie propheſie, (which wee meant out of hand to haue put into print) that I muſt needs ſit vp all <hi>Thurſday</hi> at night to write it fairer againſte the morning,<note place="margin">Note how Satans ſpirit ſtill ſet me forward.</note> which I perfour<g ref="char:EOLhyphen"/>med without any wearineſſe or deſire to ſleep, hauing waked almoſt the whole night before.</p>
+            <p>In the morning which was the ſame <hi>Fridaie</hi> we aroſe maiſter <hi>Coppinger</hi> and I met at <hi>Hackets</hi> Chamber about eight of the clock, the beaſtly Epicure lieng then in his bed, where M. <hi>Coppin<g ref="char:EOLhyphen"/>ger</hi> (after a ſolemne ſort) began to declare what manner men we were, viz: That it was ſhewed him by viſion from Heauen, that himſelfe was indued with the ſpirit of the Father; to bee the greateſt and laſte prophet of Mercie,<note place="margin">The ſixt aſ<g ref="char:EOLhyphen"/>ſault of Sa<g ref="char:EOLhyphen"/>tan by ſup<g ref="char:EOLhyphen"/>poſd viſion that Cop<g ref="char:EOLhyphen"/>pinger and I were Pro<g ref="char:EOLhyphen"/>phets.</note> that euer was or ſhoulde bee in the worlde: and that I was the laſte and greateſt Prophet of Iudge<g ref="char:EOLhyphen"/>mentes, that euer was or ſhould be: both of vs indued not onely with Propheticall, but alſo with Angellicall ſpirites, and ſhoulde ſeparate betweene the ſheep and the Goates before the
+<pb n="18" facs="tcp:337:14"/>
+Lord <hi>Ieſus</hi> at the laſt day: as for <hi>Hacket</hi> hee was greater then either of vs, and that we were ap<g ref="char:EOLhyphen"/>pointed to attend vpon his perſo<g ref="char:cmbAbbrStroke">̄</g>, in this world, wherevppon I gathered and then fullie belee<g ref="char:EOLhyphen"/>ued that he ſhould indeed be the king of all <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> as his ſtorie imported but not once drea<g ref="char:EOLhyphen"/>ming, neither as yet heard any ſpeeches that he durſt take vppon him the title and office of the Lord <hi>Ieſus:</hi> which nowe followeth in order to ſpeake of. After he had thus brought vs out of order to abuſe vs at his pleaſure: M. <hi>Coppinger</hi> hauing ended his ſpeeches of our callinges, we both kneeled downe at the beds feet to praye: where M. <hi>Coppinger</hi> began, and ſtanding ſome<g ref="char:EOLhyphen"/>what vpon his vnworthines and great vnfitnes for ſo high an office: The villaine <hi>Hacket</hi> ſtart<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of his bed, and interrupted M. <hi>Coppinger,</hi> (himſelf praieng at the beds ſide in his ſhirt on<g ref="char:EOLhyphen"/>ly) that the honor of <hi>Chriſt Ieſus</hi> might bee ad<g ref="char:EOLhyphen"/>uanced,<note place="margin">See how ſa<g ref="char:EOLhyphen"/>tan abuſed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s by praier.</note> meaning himſelfe, (but we the Lorde in Heauen) Then he skipt into bed againe, M. <hi>Coppinger</hi> ſtill going on with his owne vnwor<g ref="char:EOLhyphen"/>thineſſe, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: which the beaſt perceiuing, hee came the ſecond time out of the bed, prayeng as before in effect, and that wee might haue re<g ref="char:EOLhyphen"/>gard to honor <hi>Chriſt Ieſus: meaning ſtill himſelfe,</hi> (but we the Lord in Heauen) and after ſlipt in<g ref="char:EOLhyphen"/>to bed againe, mayſter <hi>Coppinger</hi> ſtill going on with his praier, which my ſelfe the next time in<g ref="char:EOLhyphen"/>terrupted, for ſeeing <hi>Hacket</hi> twiſe before to ariſe and pray ſo earneſtlie for the honour of <hi>Ieſus,</hi> I
+<pb n="19" facs="tcp:337:14"/>
+was inforced through the ſpirit of Satan within me, to bid my new fellow Prophet ariſe, and annoint the <hi>King</hi> with the Holy-ghoſt.</p>
+            <p>Wherevpon M. <hi>Coppinger</hi> aroſe immediatly, &amp; kiſſing both his hands three times,<note place="margin">Beholde heare the preſump<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>ous manner how Hacket termed him ſelfe Chriſt Ieſus.</note> fel downe flat vpon his face three times alſo, and kiſte the chamber boords vnder his feet, and after (with lowe obeiſance) put foorth his arme towardes <hi>Hackets</hi> beddes head, whoe foorth with claſped hands with him, and ſaid you ſhall not need to annoint me with the Holy-ghoſt, for <hi>I was an<g ref="char:EOLhyphen"/>nointed by the Holy-ghoſt himſelfe</hi> when I was in Heauen (as his ſtorie imported.) Then anſwe<g ref="char:EOLhyphen"/>red <hi>Coppinger</hi> what is your <hi>Maieſties</hi> pleaſure to be doone.<note place="margin">Oh intoll<g ref="char:EOLhyphen"/>rable blaſ<g ref="char:EOLhyphen"/>phemie.</note> You are both the Lords prophetes ſaid the villaine, Goe your way therefore in his name into the Cittie, and proclaime that <hi>Chriſt Ieſus</hi> is come to iudge the world with his fan in his handes,<note place="margin">Se the in<g ref="char:EOLhyphen"/>ſta<g ref="char:cmbAbbrStroke">̄</g>t of time when he pro<g ref="char:EOLhyphen"/>clamed him ſelfe Chriſt Ieſus: ſo as we coulde not doo o<g ref="char:EOLhyphen"/>therwiſe, be<g ref="char:EOLhyphen"/>ing both be witched by his ſpirit.</note> and if the people aske where hee is, you may tell them <hi>I am he,</hi> and where I am, and if they will not beleeue you, bid them come kil me if they can: your <hi>Maieſties</hi> pleaſure ſhall bee done quoth <hi>Coppin</hi> and down the ſtaires he go<g ref="char:EOLhyphen"/>eth, who<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Arthington</hi> followed in ſuch haſt, that I aſſure you I left my gloues behind me (ſo ſmal time had I to think of the matter.) But before I got downe the ſtaires, my fellowe falſe prophet had proclaimed news from Heauen, that <hi>Ch. Ie<g ref="char:EOLhyphen"/>ſus</hi> was come to iudge the worlde, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>, At what time I was co<g ref="char:cmbAbbrStroke">̄</g>pelled in ſpite of my hart, to tune the ſame note: we both going beyond our co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>miſſion; hee crieng repent, and mercy; and I re<g ref="char:EOLhyphen"/>pent,
+<pb n="20" facs="tcp:337:15"/>
+or Iudgement is at hande: which the Lord knoweth wroong many ſalt teares out of my poore eies, for feare of the euent vpon the whole Cittie.</p>
+            <p>After we had thus plaid our pagent in <hi>Cheap,</hi> and had ſo monſtrouſlie abuſed the Lorde <hi>Ieſus</hi> in Heauen, by proclaiming an vſurper of his office in earth,<note place="margin">All three thrown into ſundry pri<g ref="char:EOLhyphen"/>ſons.</note> giuinge further exceeding great offence, againſt hir Excellent <hi>Maieſtie,</hi> hir Ho<g ref="char:EOLhyphen"/>nourable Councell, and all Chriſtian people, we were all ſhortlie after clapt faſte in cloſe pri<g ref="char:EOLhyphen"/>ſons ſeuerally: there to bethink our ſelues what anſwer to make when we ſhould bee called to giue an accou<g ref="char:cmbAbbrStroke">̄</g>t of our proceedings: ſince which time I did neuer ſee either of my companions, but the <hi>Wedneſday</hi> after, at Sherife <hi>Brooks</hi> houſe as I ſuppoſe, where I coulde not for my life re<g ref="char:EOLhyphen"/>frame, but kneele downe to <hi>Hacket</hi> (before ſome of the Councell) And bid God ſaue the king of <hi>Europe:</hi> thinking ſtill in my minde hee had beene ſo indeed: neither could I bee diſ<g ref="char:EOLhyphen"/>charged either of his wicked ſpirite,<note place="margin">Se the force of Satans ſpirit in me.</note> or to take him for the ſpeciall adopted ſonne of GOD, <hi>Chriſt Ieſus</hi> in earth, to repreſent the perſonne of, <hi>Chriſt Ieſus</hi> in Heauen, ſo longe as the breath was in the villaines breaſt: but as <hi>Iohn</hi> the <hi>Bap<g ref="char:EOLhyphen"/>tiſt</hi> was the fore-runner of <hi>Chriſtes</hi> firſte com<g ref="char:EOLhyphen"/>ming, to bring repentance vnto Saluation: ſo I deemed <hi>Hacket</hi> to be the forerunner of <hi>Chriſts</hi> ſecond comming, to prepare his Iudgementes againſt all ſuch perſons as would not repent.</p>
+            <p>
+               <pb n="21" facs="tcp:337:15"/>If any ſhould demande, why I did not diſ<g ref="char:EOLhyphen"/>couer <hi>Hackets</hi> intended villainous practiſes a<g ref="char:EOLhyphen"/>gainſt the <hi>Queene</hi> and state: (ſeeing hee was knowne to be a Sorcerer,<note place="margin">An obiec<g ref="char:EOLhyphen"/>tion.</note> and condemned for high Treaſon againſt hir Maieſtie.) Truly (as I meane to be ſaued at the laſt daye) both thoſe matters were vnknowne to me ſo long as he li<g ref="char:EOLhyphen"/>ued,<note place="margin">Anſwered.</note> (and to maiſter <hi>Coppinger</hi> alſo as I thinke) Neither was I euer anye further acquainted, with any ſightes, viſions or ſpeeches towching theſe matters, then as before in ſubſtance is de<g ref="char:EOLhyphen"/>clared: but as I heard by maiſter <hi>Yoong,</hi> ſince his death, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: Therefore as on the one ſide, I ſhould deepelie offend the <hi>Maieſtie</hi> of God, if I ſhoulde conceale any danger intended againſt hir <hi>Maieſtie,</hi>
+               <note place="margin">Though it were true, I knew not ſo much.</note> (falling within the compaſſe of my knowledge.) So ſhould I diſpleaſe the Lord on the other ſide, by ſpeaking more then <hi>A truth of any,</hi> yea if it were of the Deuill himſelfe Proteſting thus much in the preſence of God, that if I were priuie to one euill worde (other then I haue reuealed) ſpoken againſte her <hi>Ma<g ref="char:EOLhyphen"/>ieſtie,</hi> by my ſelfe or the deareſt friende that I haue, if I ſhould not diſcouer it to hir Highnes Councell, and put them or my ſelfe in hir <hi>Ma<g ref="char:EOLhyphen"/>ieſties</hi> mercy: I ſhould thinke my ſelfe vnwor<g ref="char:EOLhyphen"/>thie of any mercy, either at God or hir <hi>Maieſties</hi> hands.</p>
+            <p>What fauour the Lord hath made me finde of hir Highneſſe, and her Honourable Coun<g ref="char:EOLhyphen"/>cell, ſince I did reueale the worſt againſte my
+<pb n="22" facs="tcp:337:16"/>
+ſelfe, ſhall appeare more plainelie (GOD wil<g ref="char:EOLhyphen"/>ling) heereafter, when I come to ſpeake there of in particulers.</p>
+            <p>In the meane time, howe I demeaned my ſelfe, from the day of our ariſing, till the verie houre of <hi>Hackets</hi> execution, diuers of good cre<g ref="char:EOLhyphen"/>dit that heard my poore praiers,<note place="margin">The forme of my dailie praiers.</note> can truly wit<g ref="char:EOLhyphen"/>neſſe, howe continuallie I beſought the Al<g ref="char:EOLhyphen"/>mightie, that he woulde bring ſhame and de<g ref="char:EOLhyphen"/>ſtruction vppon vs all three or any of vs, If we did <hi>Wilfullie</hi> ſeeke,<note place="margin">Note this word <hi>wilful<g ref="char:EOLhyphen"/>lie.</hi>
+               </note> either the diſhonour of <hi>Chriſt Ieſus</hi> in heauen, or the hurt of his annoin<g ref="char:EOLhyphen"/>ted <hi>Queene Elizabeth</hi> in Earth, which the Vil<g ref="char:EOLhyphen"/>laine perceiuing, and that he could not inforce me to praye for Gods vengeance to fall vppon the Cittie, when hee knewe himſelfe condem<g ref="char:EOLhyphen"/>ned to die. Then he ſought to bee reuenged vppon my perſon: by accuſing mee to maiſter <hi>Yoong,</hi>
+               <note place="margin">See the ma<g ref="char:EOLhyphen"/>lice of ſatan when he ca<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>not compas his inteut.</note> to be the chiefe Conſpirator, and ſo to bring me into like daunger: but the Lord that knewe my heart (though I were greatlie miſ<g ref="char:EOLhyphen"/>led) hee did preſerue mee from all extremy<g ref="char:EOLhyphen"/>ties.</p>
+            <p>The night before hee was to be executed, hee ſette his wicked Spirite ſo on worke within me, to pray for vengeance to conſume the Cit<g ref="char:EOLhyphen"/>tie, that for one howre at the leaſt about Myd<g ref="char:EOLhyphen"/>night, I prayed ſo lowd, that I awaked moſte of the Priſoners in the houſe, But as <hi>Balaam</hi> be<g ref="char:EOLhyphen"/>ing hired to curſſe God people, did notwith<g ref="char:EOLhyphen"/>ſtanding<note n="m" place="margin">
+                  <hi>Num.</hi> 23.8</note> bleſſe them. So fell it out with mee,
+<pb n="23" facs="tcp:337:16"/>
+rather to praye for them and againſt their eni<g ref="char:EOLhyphen"/>mies, which I am ſure, did ſooner helpe to ſet the villaine into hel, then hurt the Citty of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> for thus I praied all the ſaid ſpace, <hi>O Lorde, when thou wilt, ſave thine elect, confound thine eni<g ref="char:EOLhyphen"/>mies.</hi>
+               <note place="margin">My praier when Hac<g ref="char:EOLhyphen"/>ket moued me, but not as he expe<g ref="char:EOLhyphen"/>ted.</note> And truely the ſpirite carried my minde throughout all the world, yea into Gods ſecret predeſtination and reprobation, to ſaue his E<g ref="char:EOLhyphen"/>lect and confounde his enimies: in the which praier I continued ſo long, till the Maſter of the priſo<g ref="char:cmbAbbrStroke">̄</g> came vp to threate<g ref="char:cmbAbbrStroke">̄</g> me harder reſtraint, if I wold not ceaſe from diſquieting the houſhold.</p>
+            <p>The next daye vpon which <hi>Hacket</hi> was exe<g ref="char:EOLhyphen"/>cuted, I was compelled to bee more inſtant in praier then before: but ſtill I kepte within one compaſſe,<note place="margin">My praier alwaies within one compaſſe.</note> that if any of vs did <hi>Wilfullie</hi> intende diſhonour to <hi>Chriſt Ieſus,</hi> or hurt to <hi>Queene Eli<g ref="char:EOLhyphen"/>zabeth,</hi> ſhame and confuſion might couer their faces. About the height of the day, my nexte neighbor priſoners hauing intelligece that <hi>Hac<g ref="char:EOLhyphen"/>ket</hi> was hangd, they gaue me notice therof tho<g ref="char:EOLhyphen"/>row the dore, &amp; what a deſperate end he made.</p>
+            <p>Then ſaid I he was no man ſure, but a Deuill incarnate, appearing to me as an angel of light. And ſuddenlie I felt my ſelfe quite diſpoſſeſt of that hot ſpirit; and of all thoſe groſſe and pal<g ref="char:EOLhyphen"/>pable errors which I held ſo confidently in his life time, thinking indeed I had not oftended: Euen ſo good was God to his poore and ſinful ſeruant, that knowing me to bee ſo ſubtlelye ſeduced by the mallice of <hi>Satan,</hi> as to abuſe my
+<pb n="24" facs="tcp:337:17"/>
+vnderſtanding knowledge, and memorie, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<g ref="char:EOLhyphen"/>lens, volens,</hi> to ſin ſo fearefully, that now hum<g ref="char:EOLhyphen"/>bling my ſelfe truely before his preſence, and expoſtulating with his mercifull <hi>Maieſtie,</hi> whe<g ref="char:EOLhyphen"/>ther I was Reprobate, or no: preſentlie the Holy ghoſt did aſſure my hart <hi>That I was no re<g ref="char:EOLhyphen"/>probate:</hi> But that my caſe in effect, was muche like S.<note n="n" place="margin">Act. 9,</note> 
+               <hi>Paules,</hi> both wiſhing to doo God good ſeruice, yet when wee thought our ſelues beſt occupied, then did we moſt diſhonor his nam: Neither would not the Lord once ſuffer <hi>Satan</hi> to aſſault my conſcience either with the feare of deſperation, or once to doubt of my ſaluation, Oh how truelie might I ſay with Dauid, <hi>I did confeſſe my ſinnes vnto the Lord,</hi>
+               <note place="margin">Pſal. 32.5.</note> † <hi>and he forgaue the iniquitie of my ſinnes.</hi> Selah</p>
+            <p>Thus hauing briefty touched the moſt hor<g ref="char:EOLhyphen"/>rible Rebellion of <hi>Hacket</hi> againſt the Lord <hi>Ieſuts,</hi> with the manner of his deluding mee, to pro<g ref="char:EOLhyphen"/>claime him as before: I conclude thus much of this firſt point, that if we either conſider the purpoſe of the man, the maner of his procee<g ref="char:EOLhyphen"/>ding, or the ſequell of his ending, wee can be<g ref="char:EOLhyphen"/>hold no better in <hi>Hacket</hi> then fearefull ſignes, ſo farre as mortall man can diſcerne. In the meane time I Wiſh all chriſtians to beware,<note place="margin">Of Repro<g ref="char:EOLhyphen"/>bation.</note> how they flatter and bolſter themſelues in their ſins, vpon a vaine and fooliſh perſwaſion, that <hi>Hacket</hi> (ſo vile a wreteh) might be ſaued, becauſe for<g ref="char:EOLhyphen"/>ſooth it is reported, that albeſt he could not, or would not ask God mercy: yet before he died
+<pb n="25" facs="tcp:337:17"/>
+he held vp his handes; for the verie paines and panges of death will inforce a man to caſt vp his hands when he cannot otherwiſe help him<g ref="char:EOLhyphen"/>ſelfe: I pray God bleſſe me and all good men, from ſuch a bad end or maner of ending, that hauing his tongue, and requeſted to pray, doth refuſe praier and fall to curſing: I hope (by Gods grace ſo long as I liue) that his example ſhall be <hi>Lots</hi> wiſe vnto mee, to be admoniſhed howe to truſt any man in matters of Religion, (further then he hath warrant from the word) what viſions or reuelations ſoeuer he pretend,<note place="margin">A neceſſa<g ref="char:EOLhyphen"/>rie admo<g ref="char:EOLhyphen"/>nition.</note> which rule heeretofore, if I had well ovſerued, (as my heart ſtill intended) i had not commit<g ref="char:EOLhyphen"/>ted ſo great an offence in the Church of god. To the greater diſhonour of <hi>Chriſt Ieſus,</hi> the griefe of the godly, and reioycing to the ad<g ref="char:EOLhyphen"/>uerſarie, and to the imminent danger of mine owne ſoule, and bodie, whereof it followeth to diſcourſe in perticulers. Firſt, concerning the greatneſſe of mine own offence, in proclaiming <hi>Hacket</hi> to be <hi>Chriſt Ieſus</hi> the Iudge of the world, as I cannot denie it (in reſpect of the publique ſcandall giuen) to be ſo little, as the rebellion of <hi>Korah,<note n="o" place="margin">Number 16 1.35</note> Dathan,</hi> and <hi>Abiram,</hi> who notwith<g ref="char:EOLhyphen"/>ſtanding were all three ſwallowed vp into hell; Nor yet as the preſumption of <hi>Nadab</hi> and<note n="p" place="margin">Leuit. 10 1.2</note> 
+               <hi>A<g ref="char:EOLhyphen"/>bihu,</hi> in offering ſtrange ſacrifice vnto the Lord, whereby themſelues were as ſtrangely conſu<g ref="char:EOLhyphen"/>med with fire from heauen; Neither yet as the wilfull murdering of <hi>Abell,</hi>
+               <note n="q" place="margin">Gen 4.8.12.</note> whiche brought a
+<pb n="26" facs="tcp:337:18"/>
+perpetuall curſe of <hi>Kaine,</hi> and all his poſteritie: Nor yet as the trecherie of that Traitor<note n="r" place="margin">2. Sam. 17.1.2.3. &amp; 23.</note> 
+               <hi>Achito<g ref="char:EOLhyphen"/>phell,</hi> againſt his <hi>Soueraigne,</hi> who afterwards deſ<g ref="char:EOLhyphen"/>perately hanged himſelfe: Neither yet as the hot perſecution by <hi>Saule</hi> againſt poore <hi>chriſti<g ref="char:EOLhyphen"/>ans,</hi>
+               <note n="s" place="margin">Act. 9.3.9.</note> who for the ſame was ſtricken ſtark blind: All which offences, though they were great, and their examples fearefull: yet (in reſpect of their outward facts committed) the ſame ex<g ref="char:EOLhyphen"/>tended no further,<note place="margin">My ſinne greater the<g ref="char:cmbAbbrStroke">̄</g> the ſins of Korah, Da<g ref="char:EOLhyphen"/>than, Aby<g ref="char:EOLhyphen"/>ram, Na<g ref="char:EOLhyphen"/>dab, Abihu, <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>. verie plainly proued.</note> then either againſt the com<g ref="char:EOLhyphen"/>mandementes of God in his required worſhip, or the good of his ſaints. But mine offence tou<g ref="char:EOLhyphen"/>ched directly the perſon of <hi>Chriſt Ieſus,</hi> the eter<g ref="char:EOLhyphen"/>nall ſonne of the Almightie God, which muſt needs be ſo much the greater, As the perſon of <hi>Chriſt,</hi> is aboue a mortal man, or God himſelfe aboue his co<g ref="char:cmbAbbrStroke">̄</g>mandements; So that of neceſſitie I muſt either co<g ref="char:cmbAbbrStroke">̄</g>pare it with the ſin of <hi>Iudas,</hi> or the fall of <hi>Peter:</hi> becauſe they were both co<g ref="char:cmbAbbrStroke">̄</g>mit<g ref="char:EOLhyphen"/>ted directly againſt the very perſon of <hi>Chriſt Ie<g ref="char:EOLhyphen"/>ſus,</hi> the Lord of life, and the king of all glorie.<note place="margin">My ſin not ſo great as the treaſon of Iudas by theſe rea<g ref="char:EOLhyphen"/>ſons fol<g ref="char:EOLhyphen"/>lowing.</note>
+            </p>
+            <p>But as I may not grant at any hand, that my ſin was as great as the fact of <hi>Iudas:</hi> No more can I eſtimate it to be ſo ſmall, as the ſinne of <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> both which ſhall appeare the more plainly by theſe compariſons following.</p>
+            <p>
+               <note n="1" place="margin">Compa<g ref="char:EOLhyphen"/>riſon.</note>Firſt, concerning <hi>Iudas</hi> fact; It proceeded eſpecially of a couetous deſire to enrich hym<g ref="char:EOLhyphen"/>ſelfe,<note place="margin">Luke 23.4.5.6.</note> as the ſcripture beareth witneſſe: both in asking the high prieſt <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.<note n="t" place="margin">Mat. 26.14.15.16.</note> what they would giue him to betray the <hi>Lord Ieſus,</hi>
+               <note place="margin">Ioh. 12.4.5.6.</note> and in taking
+<pb n="27" facs="tcp:337:18"/>
+mony to perform the ſame. Truly, I ſhould ac<g ref="char:EOLhyphen"/>cuſe my ſelf wrongfully, if I ſhould grant there was any ſuch matter ſought or intended on my behalf: or any talk amo<g ref="char:cmbAbbrStroke">̄</g>g vs, to any ſuch purpoſe.</p>
+            <p>
+               <note n="2" place="margin">Compari<g ref="char:EOLhyphen"/>ſon</note>Secondly, <hi>Iudas</hi> tranſgreſſed wilfully againſt the forewarning admoniſhion, and threatning of the <hi>Lord Ieſus,</hi> ſaying,<note n="v" place="margin">Math. 26.23:24.25.</note> wo be to that man by whom the ſon of man is betraied: telling <hi>Iudas</hi> when he asked, that it was himſelfe.</p>
+            <p>The <hi>Lord</hi> knoweth I had no ſuch forewarning that <hi>Hack.</hi> meant to proclaim himſelf <hi>Chriſt Ieſus</hi> the Iudge, til the very inſtant as before is decla<g ref="char:EOLhyphen"/>red whe<g ref="char:cmbAbbrStroke">̄</g> I had no power nor grace to reſiſt, bei<g ref="char:cmbAbbrStroke">̄</g>g ſore bewitched and poſſeſt with his diueliſh ſpi<g ref="char:EOLhyphen"/>rit, to be led like a dru<g ref="char:cmbAbbrStroke">̄</g>kard which way he would.</p>
+            <p>
+               <note n="3" place="margin">Compari<g ref="char:EOLhyphen"/>ſon</note>Thirdly, <hi>Iudas</hi> the traitor, ſinned preſumptu<g ref="char:EOLhyphen"/>ouſly, againſt his own knowledge &amp; conſcie<g ref="char:cmbAbbrStroke">̄</g>ce, for he knew <hi>Chriſt Ieſus</hi> to be the ſauior, &amp; ſo had himſelf profeſt and preached<note n="w" place="margin">Mat. 10.1.16.</note> with the reſt of <hi>Chriſts</hi> apoſtles. Co<g ref="char:cmbAbbrStroke">̄</g>trariwiſe, I thought indeed I had not offe<g ref="char:cmbAbbrStroke">̄</g>ded,<note place="margin">Luke 9.1.10</note> but highly pleaſed God in that which I did vntil the ſorcerer <hi>Hacket</hi> was ha<g ref="char:cmbAbbrStroke">̄</g>ged.</p>
+            <p>
+               <note n="4" place="margin">Comparis<g ref="char:EOLhyphen"/>ſon.</note>Fourthly, there is no mention made in the ſcripture, that <hi>Iudas</hi> wept for his offe<g ref="char:cmbAbbrStroke">̄</g>ces, or once asked the <hi>Lord</hi> pardon: on the other ſide, it is not vnknown both vnto God and many of hys ſeruants, that I haue often wept ſince, euen for offending ſo good a God, ſtill asking, ſeeking and knocking for pardon, and not without comfort I thanke my <hi>lord Ieſus.</hi>
+            </p>
+            <p>If any man obiect, that the ſcripture recor<g ref="char:EOLhyphen"/>deth
+<pb n="28" facs="tcp:337:19"/>
+howe <hi>Iudas</hi> repented and<note n="x" place="margin">Math. 27.3.4. An obiecti<g ref="char:EOLhyphen"/>on.</note> confeſſed his ſins: and yet was damned, Therefore not all that repent are ſaued.</p>
+            <p>I anſwer, that is moſt true, for his repenta<g ref="char:cmbAbbrStroke">̄</g>ce was onlye carnall,<note place="margin">Anſwered.</note> proceeding of feare to bee damned in hell, which<note n="y" place="margin">2. cor. 7.10</note> after brought deſperati<g ref="char:EOLhyphen"/>on with it, and inforced him afterwardes to hang vp himſelfe<note n="z" place="margin">Mat. 27.5. Iohn 17.12.</note> like a deſperate reprobate ſo tearmed by <hi>Chriſt.</hi> As for his confeſſion, it was only to man (and not vnto God) neyther did he euer aske God or man forgiueneſſe.</p>
+            <p>But l thanke God in <hi>Chriſt,</hi> my ſorrow was ſuch, (as the Apoſtle ſpeaketh ſhould be in true Chriſtians) which brought foorth<note n="a" place="margin">2. cor. 7.10</note> repentance vnto ſaluation: for that my greefe eſpeciallie a<g ref="char:EOLhyphen"/>roſe from theſe cauſes; (not for fear of torme<g ref="char:cmbAbbrStroke">̄</g>ts) but for diſpleaſing the almightie Godhead: for greeuing his ſpirite, for offending his little ones,<note place="margin">The true cauſes of my ſorrow.</note> for diſcrediting my profeſſion, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. With full aſſurance notwithſtanding, that my ſauiour <hi>Ieſus</hi> would forgiue me all my ſinnes, and grant the grace heereafter to ſerve him better, for the which I daily pray; Therefore I know, my ſin was not ſo heauie or great, as the fact of <hi>Iudas,</hi> if they be ballanced with the weights of Gods ſanctuarie: That my ſinne cannot be ſo light,<note place="margin">My ſinne greater the<g ref="char:cmbAbbrStroke">̄</g> the fall of <hi>Peter,</hi> by theſe rea<g ref="char:EOLhyphen"/>ſons enſu<g ref="char:EOLhyphen"/>ing.</note> (but farre more heauie then Peters denial) I wil easily grant.</p>
+            <p>
+               <note n="1" place="margin">Compari<g ref="char:EOLhyphen"/>ſon.</note>Firſt, for that as the ſcripture reporteth) Pe<g ref="char:EOLhyphen"/>ter did but thriſe denie his maiſter <hi>Chriſt.</hi>
+            </p>
+            <p>But I proclaimed (the ſuborned <hi>Chriſt, Hac<g ref="char:EOLhyphen"/>ket</hi>)
+<pb n="29" facs="tcp:337:19"/>
+at the leaſt threeſcore times:</p>
+            <p>
+               <hi>Peter</hi> only denied his maiſter before a few ſecretly: but I proclaimed the vſurper <hi>Chriſt.</hi>
+               <note place="margin">2. Compari<g ref="char:EOLhyphen"/>ſon.</note> openly, before the face of all maner people, and that in the greateſt Citie of England, about the varie height of the day.</p>
+            <p>
+               <hi>Peter</hi> no doubt of frailty denied his maiſter, onely for the preſeruation of his life, which o<g ref="char:EOLhyphen"/>therwiſe might haue bene in danger.<note place="margin">3. Compari<g ref="char:EOLhyphen"/>ſon.</note>
+            </p>
+            <p>But there was no ſuch danger to be feared of me, if I had renounced <hi>Hacket</hi> to be <hi>Chriſt Ieſus.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> immediatly repented of his ſinnes at the verie crowing of a poore cocke:<note place="margin">4. Compari<g ref="char:EOLhyphen"/>ſon.</note>
+            </p>
+            <p>But I could not be brought to knowe that I had ſinned,<note place="margin">See the force of Sa<g ref="char:EOLhyphen"/>tans ſpirite in me.</note> (much leſſe to repent) for twelue daies together: <hi>viz.</hi> ſo long as <hi>Hacket</hi> liued af<g ref="char:EOLhyphen"/>ter our ariſing: Till by his death I was diſchar<g ref="char:EOLhyphen"/>ged of his diueliſh ſpirit. Therefore my ſin can<g ref="char:EOLhyphen"/>not but be greater then<note n="a" place="margin">Matth. 26.74.</note> 
+               <hi>Peters</hi> fall, who though he curſed himſelfe twiſe or thriſe, yet did I farre exceede him therein alſo. In curſing my ſelfe threeſcore times at the leaſt. Thus albeit <hi>Peters</hi> fall was verie great in denying his maiſter, yet you ſee mine to be manie waies greater.</p>
+            <p>It may be then demanded, how great my ſin was, ſeeing<note place="margin">A queſtion.</note> I auouch it to be aboue <hi>peters;</hi> And yet not ſo great as the treaſon of <hi>Iudas,</hi> which was the ſinne againſt the holy Ghoſt,<note n="b" place="margin">Act. 1.18.</note> as the Scripture doth teſtifie,<note place="margin">Pſal. 99.</note> and might euidently ap<g ref="char:EOLhyphen"/>peare by his bowelles guſhing out, when hee
+<pb n="30" facs="tcp:337:20"/>
+hanged hymſelfe.</p>
+            <p>To reſolue this queſtion, thus much I proteſt vpon my very conſcience,<note place="margin">The ſoluti<g ref="char:EOLhyphen"/>on.</note> that as before I haue noted the ſinne of <hi>Hacket</hi> to be the greateſt that euer was committed by any reprobate: So I take mine to be abſolutely the greateſt that euer was done by any of the elect;<note place="margin">How great my ſin was.</note> And as I note <hi>Hackets</hi> rebellion, to be a ſinne in the higheſt degree I feare againſt the holy-ghoſt: So doe I eſtimate my ſinne in proclaiming hym, to be in the higheſt degree againſt the <hi>lord Ieſus,</hi> as hee was man.</p>
+            <p>By this accompt may ſome ſay, you make your fact, greater then the ſinne of <hi>Iudas,</hi> which he committed onely againſt the <hi>Lord Ieſus.</hi>
+               <note place="margin">An obiecti<g ref="char:EOLhyphen"/>on.</note>
+            </p>
+            <p>I anſwer no: for <hi>Iudas,</hi>
+               <note place="margin">The anſwer</note> though he ſinned di<g ref="char:EOLhyphen"/>rectly againſt the verie perſon of the <hi>Lord Ieſus:</hi> yet he ſinned againſt the holy-Ghoſt alſo: In that hee knewe <hi>Chriſt</hi> to be the ſauiour of the worlde, and yet did wilfully betraie hym to death, as before is noted: wherein hys ſinne did farre exceede mine, as I haue plainly proo<g ref="char:EOLhyphen"/>ued by manie reaſons, hee ſinning of know<g ref="char:EOLhyphen"/>ledge, I of ignorance: he of wilfulneſſe: I of weakeneſſe: he againſt admonition and threat<g ref="char:EOLhyphen"/>ning, I hauing no ſuche forewarning at all. Therefore to ballance my ſinne to be equall with his, (who did perſecute his treaſon, flat a<g ref="char:EOLhyphen"/>gainſt his conſcience, which I did not) is di<g ref="char:EOLhyphen"/>rectly vnlawfull.</p>
+            <p>
+               <note place="margin">An other obiection.</note>But it may be further obiected: that I ſin<g ref="char:EOLhyphen"/>ned
+<pb n="31" facs="tcp:337:20"/>
+likewiſe agaynſt my knowledge, hauing read the forewarning of the <hi>Lord Ieſus:</hi> To take heede of all ſuche wicked perſons, as ſhould falſely take vppon them<note n="c" place="margin">Math. 24.4.5.</note> the titles of <hi>Chriſt Ieſus.</hi>
+            </p>
+            <p>I confeſſe the ſame to be true indeed, but yet ſo,<note place="margin">The ſoluti<g ref="char:EOLhyphen"/>on.</note> as this is true alſo, that at the verie inſtant when <hi>Hacket</hi> bid <hi>maiſter Coppinger</hi> and mee to proclaime him <hi>Chriſt Ieſus:</hi> he had quite ex<g ref="char:EOLhyphen"/>pelled the former ſentence out of our mindes. And hauing once proclaimed him, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. I could not bee diſpoſſeſſed of that diueliſh opini<g ref="char:EOLhyphen"/>on ſo long as this erronious ſpirite was within me, that is to ſay, during hys life.</p>
+            <p>Thus doe I with all reuerence and humili<g ref="char:EOLhyphen"/>tie defend my ſelfe not to haue ſinned againſt the holy-Ghoſt: and yet as willingly I doe confeſſe,<note place="margin">My ſin the greateſt that euer was com<g ref="char:EOLhyphen"/>mitted by anie of the elect.</note> that my ſinne is the greateſt, that euer was committed by anie of the redeemed: Proteſting from the verie bottome of my heart, that if I ſhoulde lie in Cheynes all the dayes of my life,<note place="margin">What pen<g ref="char:EOLhyphen"/>nance I deeme my ſelf worthy of in this world.</note> in the deepeſt Dungeon about all LONDON, and ſhould continue there ſo long as I liue; (or rather ſo long as the worlde indureth, if it coulde be poſſible) yet were that puniſhment too ſmall a pen<g ref="char:EOLhyphen"/>nance, for ſo groſly abuſing my Sauiour <hi>Chriſt Ieſus,</hi> and ſo an ende of this poynt, touch<g ref="char:EOLhyphen"/>ing the greatheſſe of my ſinne, and what pu<g ref="char:EOLhyphen"/>niſhment I haue deſerued in this world (be<g ref="char:EOLhyphen"/>ſides eternall tormentes, in the worlde to
+<pb n="32" facs="tcp:337:21"/>
+come) If God ſhould but deale with me in hys iuſtice, as I am fully aſſured he will not; But freely extend his mercies ſtill vnto me, whereof now followeth brieftly to diſcourſe:</p>
+            <p>To ſpeake as I ſhoulde of Gods mercies to<g ref="char:EOLhyphen"/>wardes me, Truely (as <hi>David</hi> ſaith) they be ſo many and great euery way,<note n="d" place="margin">Pſal. 103.</note> that I am not able either to number them, or rightly to conſider of thoſe which I know; But will adde my beſt indeuour to expreſſe my preſent feeling in both.</p>
+            <p>And firſt to ſpeake of Gods prouidence ouer me, during <hi>Hackets</hi> life: Secondly, to ſpeak of his like fauour towards me after his death.</p>
+            <p>Concerning the former point, touching the mightie and mercifull prouidence of the al<g ref="char:EOLhyphen"/>mightie,<note place="margin">Of Gods prouidence ouer me, during Hackets life.</note> in ſafe preſeruing mee from intended deſtruction, and at manie dangers, during <hi>Hackets</hi> life time: If I either conſider the greatneſſe 1. of my ſinne: or the want of grace: then 2. to acknowledge the ſame; or the hard euent 3. that fell <hi>on maiſter Coppinger:</hi> or the malice of Satan 4. that ſought my deſtruction: or compare the greatneſſe of Gods mercies towards me. 5. with his former fauor extended to others: Then ſhal all men perceiue the more plainly, the goodnes of God in my preſeruation.</p>
+            <list>
+               <item>1. To begin with the firſt point, touching the greatneſſe of mine offence, I haue alreadie noted it before, (according to my conſcience) to be the greateſt ſinne that euer was commit<g ref="char:EOLhyphen"/>ted
+<pb n="33" facs="tcp:337:21"/>
+(excepting the ſinne againſt the <hi>Holie<g ref="char:EOLhyphen"/>Ghoſt.</hi>
+               </item>
+               <item>The want of grace that appeared in me, was manifeſt to all men, In that I was ſo farre off, from ſhewing anie ſignes of true repentance, (during all the tyme that <hi>Hacket</hi> liued) that I coulde not be brought to ſee mine offence, in that perticuler action.</item>
+               <item>3. Concerning the hard euent that befell <hi>maiſter Coppinger,</hi> with the loſſe of his life (tho<g ref="char:EOLhyphen"/>rough that wicked Inchanters meanes eſpeci<g ref="char:EOLhyphen"/>allie) I ſpare to ſpeake further, conſidering the ſame is touched before.</item>
+               <item>4. That Satan ſought my wofull deſtructi<g ref="char:EOLhyphen"/>on, not onely of ſoule but of bodie alſo, aſwell in this world, as in the worlde to come, can be denied of none, that rightly conſider what my ſinnes deſerued, both by the lawes of God and her <hi>Maieſtie,</hi> which by his meanes I was plunged into.</item>
+               <item>5. What fauours heretofore the Lord hath extended vnto greeuous ſinners, is plentiful<g ref="char:EOLhyphen"/>ly recorded in the booke of God: As in healing the man that had bin 38.<note n="e" place="margin">Ioh. 5.5.9.</note> yeeres bedridden: In caſting ſeuen Deuils out of <hi>Mary Magdalen,</hi> and in curing all maner diſeaſes: But to none of them all hath the Lord ſhewed ſo great compaſſion, as hee hath done to me: and that I will proue by two plain reaſons, that cannot be refelled.<note n="f" place="margin">Luke 8.2.</note>
+               </item>
+            </list>
+            <p>The former is, in preſeruing me ſo ſtrangely</p>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:337:22"/>
+            <p>ſhould therby take occaſion to ſinne,<note place="margin">Rom. 6.1</note> (becauſe he hath preſerued ſo monſtrous a ſinner: but that it might appeare to all poſterities, that God hath no delight at all, in the deathe of poore ſinners that are ouerreached with <hi>Satans</hi> practſes: But rather that they ſhoulde con<g ref="char:EOLhyphen"/>uert<note n="k" place="margin">Ezeeh. 18. &amp; 33.</note> and liue, to ſet foorth his prayſes. Thus was it his good pleaſure to preſerue mee ſafe<g ref="char:EOLhyphen"/>ly from all daungers of ſoule and bodie,<note place="margin">Pſal. 54.17 <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> &amp; 50.15</note> that hys great name of mercie might bee magni<g ref="char:EOLhyphen"/>fied for euer, which I ſtill wiſhe, and with all my heart long for: that all his creatures in hea<g ref="char:EOLhyphen"/>uen and in earthe, may duely and truely found out his praiſes for his mercies, to mee, and all other his ſeruantes world without end. What mercies the Lord hath extended vnto mee ſince the death of <hi>Hacket</hi> appeareth in theſe payntes.<note place="margin">What fa<g ref="char:EOLhyphen"/>uour ſince Hack death</note>
+            </p>
+            <p>Firſt, in diſpoſſeſſing me of his hote diueliſh ſpirite, and of thoſe helliſhe opinions before touched, euen the verie ſame houre that hee was executed.</p>
+            <p>Secondly, in reſtoring mee to my former loundneſſe in the knowledge of the truth, with<g ref="char:EOLhyphen"/>out the helpe of any man mortall.</p>
+            <p>Thirdly, in: giuing mee a ſight of my ſinnes, with grace to iudge and condemne my ſelfe for them:(Namely, for rebelling agaynſt my ſauiour Ieſus).</p>
+            <p>Fourthly, in keeping mee notwithſtanding from all open ſhame, and conſigne puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="37" facs="tcp:337:22"/>
+not once to holde vp my hand at the bar for all my tranſgreſſions.</p>
+            <p>Fifthly, in aſſuring me of his futher fauour and protection againſt the malice of <hi>Satan</hi> and all <hi>Sataniſtes,</hi> which ſhal1 heereafter ſeecke my de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Sixthly, in preſeruing my health and ſound<g ref="char:EOLhyphen"/>neſſe of bodie from all ſickneſſe <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan> being a<g ref="char:EOLhyphen"/>bout 30. weekes cloſe priſoner.</p>
+            <p>Seuenthly, in ſupplying my wantes, and re<g ref="char:EOLhyphen"/>lieuing my neceſſities in outward things ſuffici<g ref="char:EOLhyphen"/>ently, when I knewe no way how to helpe my ſelfe.</p>
+            <p>Eigthly, and laſtly, which is more then all the rest, in that God hath forgiuen me all my ſinnes, and reſerueth me for ſaluation in <hi>Chriſt,</hi> Whereof I am aſſured by theſe tokens follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p>First, by the exprience of Gods almightie prouidence, in ſtill Preseruing me from all im<g ref="char:EOLhyphen"/>minent dangers of ſoule and bodie,<note place="margin">Tokens of Gods fa<g ref="char:EOLhyphen"/>uour. Iudg. Gal.</note> when I was the vaſſall of <hi>Satan,</hi> bewitched to diſhonour my ſoueraigne <hi>lord Ieſus,</hi> and wanted grace to ac<g ref="char:EOLhyphen"/>knowledge my ſinnes.</p>
+            <p>Secondly, in that God hath ſent his ſprit in<g ref="char:EOLhyphen"/>to my heart to crie <hi>Abba</hi>
+               <note n="m" place="margin">Ro. 8.15. Gal. 4.6.</note> 
+               <hi>Father,</hi> and to ſaele vp the aſſurace of my ſaluation in <hi>Chriſt.</hi>
+            </p>
+            <p>Thirdly, for that God doth ſtill increaſe my faith, and ſtrengthen my hope, in the onelie mercies and merits of <hi>Chriſt Ieſus,</hi> for the whole worke of my ſaluation.</p>
+            <p>
+               <pb n="38" facs="tcp:337:23"/>Fourthly, in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I knowe my faith to bee found,<note n="n" place="margin">lam. 2.18 Fruites of true faith.</note> by thy fruites of Gods ſpirite procee<g ref="char:EOLhyphen"/>ding from the same.</p>
+            <p>As firſt, the aknowledging of my ſinnes, with a broken heart, (not for feare of Gods iudgements, but for offending his bleſſed <hi>maie<g ref="char:EOLhyphen"/>ſtie,</hi>
+               <note n="o" place="margin">Pſa. 130.4.</note> who hath be he ſo good to me euery way.</p>
+            <p>Secondly, in begging pardon dayly for my ſins, with aſſured confidened to obtein mercie.</p>
+            <p>Thirdly, in hating and deteſting all my for<g ref="char:EOLhyphen"/>mer ſinnes, with daily requeſt to ſerue God better.</p>
+            <p>Fourthly, the digeſting of my preſent afflicti<g ref="char:EOLhyphen"/>ons, with patience,<note n="p" place="margin">Rom. 5.2.3 4.5. &amp; 8.19.</note> meekeneſſe, conſtancie and comfort, whereby I know they worke for my beſt.</p>
+            <p>Fifthly, By my lothing of<note n="q" place="margin">Phil. 3.8.13.</note> this world and loue to Gods kingdome, with a pittifull<note n="r" place="margin">Math. 5.7.</note> re<g ref="char:EOLhyphen"/>gard to ſuch as be in miſerie, <note n="s" place="margin">Pſ. 119.67.</note> which God hath wrought in mee by his holie ſpirite together with hir chaſtiſements.</p>
+            <p>Sixthly, the continuall comfort of my con<g ref="char:EOLhyphen"/>ſcience, euer ſince God gaue<note n="t" place="margin">1. Cor. 11.31.</note> me that grace to condemne my ſelfe: whereby I am ſure to pre<g ref="char:EOLhyphen"/>uent his iudgements,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> (not for my iudging) but for his promiſe ſake.</p>
+            <p>Seuenthly, my continuall deſire to do good to all, (but chiefly no thoſe of the houſhold of faith:)<note place="margin">Cal. 6.10.</note> and that my life and death may wit<g ref="char:EOLhyphen"/>neſſe the ſame to the glorie of God in <hi>Ieſus Chriſt.</hi>
+            </p>
+            <p>
+               <pb n="39" facs="tcp:337:23"/>Eighthly, my dayly praiers for all ſortes of people,<note n="w" place="margin">1. Tim 2.1.</note> that God may be glorified in al our re<g ref="char:EOLhyphen"/>pentaunce, by louing and liuing together like brethren, according to the rule of Gods ho<g ref="char:EOLhyphen"/>lie words, wiſhing no worſe vnto my verie en<g ref="char:EOLhyphen"/>nemies, then to mine owne ſoule.</p>
+            <p>By theſe, and ſundrie other ſauors which the Lord hath ſhewed me ſince my reſtraint: name<g ref="char:EOLhyphen"/>ly, in commaunding his angels<note n="x" place="margin">Pſal<gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</note> to pitch their tentes about me: to protect and preſerue mee from all extremeties, and in ſending his holy ſpirite and word,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> to comfort and confirme me in all my diſtreſſes.</p>
+            <p>I do gather thus muche: That as I am moſte bounden vnto the Almightie, for my ſafe pre<g ref="char:EOLhyphen"/>ſeruation all my life hitherto: and for giuing me theſe tokens of his further fauour towards me, wherby I do certainlie know my ſelfe, to be ſurelie reſrued for ſaluation in <hi>Chriſt,</hi>
+               <note n="y" place="margin">Rom. 8.3 39</note> So as neither thinges preſent, nor things to come, Principalities nor powers life nor death, Sa<g ref="char:EOLhyphen"/>tan nor Hell gates, ſhall be euer able to ſepa<g ref="char:EOLhyphen"/>rate my ſoule either from the loue of my God in <hi>Chriſt Ieſus,</hi> or from praiſing his <hi>Maie<g ref="char:EOLhyphen"/>ſtie,</hi> with his elect in glorie, when this mor<g ref="char:EOLhyphen"/>talitie hath put on immortalitie,<note n="z" place="margin">1. Cor. 15.42.43.52.54</note> and this corruption hath put on incorruption. So in the meane time I ſhall deſire and with all my heart and ſoule, doe hungerland thirſt: that the honour, and Kingdome of my deare Lord <hi>Ieſus,</hi>
+               <note place="margin">The ſumme of my daily requeſtes vnto God.</note> may be more and more aduaun<g ref="char:EOLhyphen"/>ced
+<pb n="40" facs="tcp:337:24"/>
+in the higheſt degree in the pureſt ma<g ref="char:EOLhyphen"/>ner: and in the largeſt meaſure that poſſible may be, both in this world, and in the world to come, ſo be it.<note place="margin">in teſtimo<g ref="char:EOLhyphen"/>nie of my thankeful<g ref="char:EOLhyphen"/>neſſe for all his benefits</note>
+            </p>
+            <p>Concerning the great fauors, (which poor man) hauc found of my <hi>Soueraigne,</hi> and at the <hi>Migiſtrates</hi> handes (eſpecially of her moſte ho<g ref="char:EOLhyphen"/>norable Councell, whome I did ſo much abuſe in my ſpecehcs, when I Wanted grace to guide my ſelſe better) and for proclaiming <hi>Hacket</hi> to be the king of <hi>Europe</hi> 
+               <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.<note place="margin">What I haue deſer<g ref="char:EOLhyphen"/>ued for a<g ref="char:EOLhyphen"/>buſing my Soueraigne <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>.</note> Alas what can I ſaie for my exeuſe, (though I was ſeduced by hys wicked ſpirite, and moſte blaſphemous ſtorie) but confeſſe freelie (as I do from my heart) that I deſerued a moſte ſhamefull death.</p>
+            <p>See then the goodneſſe of my mercifull God, in mouing the heartes of Chriſtian <hi>Ma<g ref="char:EOLhyphen"/>giſtrates,</hi> to pitie my bodie, (as he did my ſoule) father then to ſuffer anie further tormentes to fall vppon eyther, (ſaue a gentle reſtraint to my good for the time) wherein I obſerue the prouidence of GOD, (through their ho<g ref="char:EOLhyphen"/>nors great wiſdome, and graue councell) in keeping me cloſe priſoner ſo long, to redound moſte to his honour and glorie. For if they ſhoulde haue admitted the godly and Wiſe to haue conference with mee, whileſt I was poſſeſt with the ſpirite of <hi>Satan,</hi> I might ſo poſſibly haue done them hurt: Sure I am, they coulde haue me verie ſmall good, vntill I was parted as it Were with my familier,
+<pb n="41" facs="tcp:337:24"/>
+which was the ſame houre that <hi>Hacket</hi> ſuffered.</p>
+            <p>Or, if they had ſent me the bleſſed booke of God, during the ſaid time (as I did continual<g ref="char:EOLhyphen"/>lie craue the ſame) ſurely I ſhould haue wreſted the Scripture for the ſtronger maintenance of my errors: and ſo haue increaſed my ſinnes the more.</p>
+            <p>Or if they had ſuffered ſome godlye men to haue acceſſe vnto me, when <hi>Hacket</hi> was execu<g ref="char:EOLhyphen"/>ted, euen then to comfort my ſorrowfull ſoule, when I deemed my ſelfe forſaken of all,<note place="margin">How God hath incre<g ref="char:EOLhyphen"/>ſed his glo<g ref="char:EOLhyphen"/>ry by my re<g ref="char:EOLhyphen"/>ſtauration.</note> &amp; wor<g ref="char:EOLhyphen"/>thie to be accurſſed both of God and man. Aſ<g ref="char:EOLhyphen"/>ſuredlie, the glory of God ſhould not thereby ſo brightly haue ſhined foorth: as in reſtoring me to my former comfort in <hi>Chriſt,</hi> by the ſpe<g ref="char:EOLhyphen"/>ciall working of his owne holie ſpirit, without the helpe of anye mortall creature, that all the glory of my reſtauration, might redound who<g ref="char:EOLhyphen"/>lie vnto himſelfe.</p>
+            <p>But to ſpeake of ſome particular ſauours, which I haue alreadie receiued of their <hi>Honors,</hi> Thus much I doo moſt humblie confeſſe. That whereas I deſerued continuall reſtrainte, theyr <hi>Honors</hi> are pleaſed I ſhould haue the libertie of the priſon. That all my friends may come and ſee me: and where I deſerued a moſt ſhamefull death, they haue conſented (as I am informed) that I might ſue for hir <hi>Maieſties</hi> pardon.</p>
+            <p>O then, howe great cauſe haue I and all my friends to ſpeake good and reuerentlye of her <hi>Maieſtie</hi> and Honorable Councell, for ſo great
+<pb n="42" facs="tcp:337:25"/>
+fauors extended vnto mee, the which, becauſe ſome wicked wretches it may be, will carpe at, (as wiſhing rather to haue ſeene my death) al<g ref="char:EOLhyphen"/>beit their Honours haue ſufficient reaſonne to warrant their proceedings in that behalfe: yet with their fauors I humbly pray pardon,<note place="margin">Diuers rea<g ref="char:EOLhyphen"/>ſons to moue their Honours to ſhew me fa<g ref="char:EOLhyphen"/>uour.</note> that I may ſet downe ſome ſpeciall reaſons for their Honors iuſt defence their, to ſtop the mouths of all gainſaiers.</p>
+            <p>
+               <note place="margin">1. Note.</note>Firſt, That euer ſince the Northern rebelli<g ref="char:EOLhyphen"/>on and before, I haue profeſſed the true Reli<g ref="char:EOLhyphen"/>gion (according to the Goſpell) And not on<g ref="char:EOLhyphen"/>lie to fauour, but alſo to defend the Goſpell of Chriſt, by all meanes poſſible.</p>
+            <p>
+               <note place="margin">2. Note.</note>2. It is not vnknown vnto hir Highnes Coun<g ref="char:EOLhyphen"/>cell eſtabliſhed in the North partes, that I haue beene a detector of Seminaries, olde maſſing Prieſts and <hi>Ieſuits,</hi> with ſuch like deuoted eny<g ref="char:EOLhyphen"/>mies vnto hir <hi>Maieſtie,</hi> and haue beene in com<g ref="char:EOLhyphen"/>miſſion for ſuch purpoſes.</p>
+            <p>
+               <note place="margin">3. Note.</note>Thirdlie, when as I penned that curſſed pro<g ref="char:EOLhyphen"/>pheſie againſt <hi>London,</hi> 
+               <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: I ſet downe hir <hi>Ma<g ref="char:EOLhyphen"/>ieſtie,</hi> to be exempted from thoſe plagues thret<g ref="char:EOLhyphen"/>ned, (by the very ſpeciall prouidence of God) which himſelfe beſte knoweth, reioyced mee greatlie, as fearing ſome fearefull iudgementes indeed, to befall vpon that Cittie.</p>
+            <p>
+               <note place="margin">4 Note.</note>Fourthlie, In that I haue not onely vſed to pray dailie for her <hi>Maieſties</hi> preſeruation (as be<g ref="char:EOLhyphen"/>fore is partlie noted) but euen then when as I was the maſſenger of <hi>Satan,</hi> I proteſted (&amp; the
+<pb n="43" facs="tcp:337:25"/>
+Lord knoweth it proceeded from my hart) that if I had ten mens liues within me, they ſhould all die in defence of <hi>Queene Elizabeth,</hi> 
+               <note place="margin">This I pro<g ref="char:EOLhyphen"/>teſted befor the Lorde Maior, <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>: as diuers heard.</note> againſte all hir enimies: in tender regard whereof, I do humblie ſue and not without comfort for her <hi>Maieſties</hi> pardon: wiſhing to my ſelfe no fa<g ref="char:EOLhyphen"/>uour at all, if I haue not deſired <hi>More hard con<g ref="char:EOLhyphen"/>ditions vnto mine owne ſoule (for her Maieſties ſafe<g ref="char:EOLhyphen"/>tie) then all before ſpoken of,</hi> howſoeuer my toong was inchanted for the time to roue at randon as before is noted.<note place="margin">God ſhewe me no mer<g ref="char:EOLhyphen"/>cy if this be not true.</note>
+            </p>
+            <p>Thus hauing plainelie and truelie ſet down diuers ſpeciall great fauors extended vnto me, both from God Almightie, her <hi>Maieſtie,</hi> and their Honours, euen ſince the time of my hor<g ref="char:EOLhyphen"/>rible fact committed in <hi>Cheape,</hi> 
+               <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. I do hum<g ref="char:EOLhyphen"/>blie intreate and exhort all people, to thinke and ſpeak reuerently of the Lords proceedings with me, who no doubt hath preſerued me to a holie purpoſe, (euen to make his loue appeere in my want: his power in my weakeneſſe, and his ſtrength in my deliuerance, aboue the ma<g ref="char:EOLhyphen"/>lice and force of Satan to manifeſt his mercies vnto al poſterities to be the thinge hee chieflie preferreth<note n="a" place="margin">Mat. 9.13. Pſalm. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. Why God ſhewed mee ſo great mercies.</note> and moſt delighteth in:) that al the whole world might found out his praiſes, for extending ſo woonderfull great compaſſions, to ſo vnworthie, moſt wicked, and wretched a ſinner: for with reuerence bee it ſpoken in the eares of al men, greater mercie to a mortall cre<g ref="char:EOLhyphen"/>ature, was neuer heard or read off, ſince the
+<pb n="44" facs="tcp:337:26"/>
+world began as I conceiue.</p>
+            <p>For, neither the deliuerance of the <hi>Iſraelites</hi> through<note n="b" place="margin">Ex 14.13.22</note> the red Sea: neither the eſcapinge of <hi>Lot,</hi>
+               <note n="c" place="margin">Gen. 19, 16.22.</note> from the <hi>Sodomits</hi> deſtruction: neither the preſeruation of <hi>Shadrach,</hi>
+               <note n="d" place="margin">Dan. 3.13.33.</note> 
+               <hi>Meſach,</hi> and <hi>Abed<g ref="char:EOLhyphen"/>nego,</hi> in the hot fierie furance: neyther the ſafe<g ref="char:EOLhyphen"/>keeping of <hi>Daniell</hi> in the den<note n="e" place="margin">Dan. 6.16.24.</note> of Lyons: or the Prophet <hi>Ieremie</hi> in the mierie<note n="f" place="margin">Ier. 38.6.13</note> pit: Nor yet the miraculous eſcaping of <hi>Peter</hi>
+               <note n="g" place="margin">Acts. 12.6.19.</note> out of priſonne: Though all theſe and many ſuch extraordinarie examples, of the Lords mightie prouidence in protecting of his ſeruants, are recorded in the Scripture, for his glorie<note n="h" place="margin">Rom. 15.4.</note> and our inſtruction: yet againe and againe with all reuerence bee it ſpoken to the wonderfull workes of God: not one of theſe examples before recited, nor anye other recorded within the booke of God, (the moſt holie hiſtorie of our Sauiour <hi>Chriſt Ieſus</hi> only excepted) doth more commend the mer<g ref="char:EOLhyphen"/>cie, goodneſſe, and power of God, as the ſame hath appeared in my preſeruation: for neyther were anye of them ſo great a ſinner,<note place="margin">Marke theſe points.</note> as I haue bin, neither were their deliuerances ſo ſtrange as mine: they beeing onlie preſerued from bo<g ref="char:EOLhyphen"/>dilie dangers, but I, moſt mightilie protected from imminent danger of eternall deſtruction both of bodie and ſoule. And that when I wan<g ref="char:EOLhyphen"/>ted grace to acknowledge my ſins, as before is mentioned, which dooth ſo much more in<g ref="char:EOLhyphen"/>large the Lordes exceeding mercies and com<g ref="char:EOLhyphen"/>paſſion ouer me.</p>
+            <p>
+               <pb n="45" facs="tcp:337:26"/>And albeit the Scripture recordeth, that our Sauiour Chriſt caſt out of one man, a Legion of Diuels,<note place="margin">The caſting of a legion of deuils out of one man, not ſo great fauor as is ſhewed to me, by three reſons</note> (which importeth ſixe thouſand at the leaſt, as the annotations in thoſe places no<g ref="char:EOLhyphen"/>teth) yet, (in my conſcience) was not that ſo great mercie, as God hath ſhewed me: as may be gathered by theſe reaſons.</p>
+            <p>Firſt, It is ſaid that the partie, was moſt mi<g ref="char:EOLhyphen"/>ſerablie tormented with them: Inſomuche,<note place="margin">1 Reaſon.</note> as the Diuels kept him ſtill amongeſt the moun<g ref="char:EOLhyphen"/>taines and<note n="i" place="margin">Mar. 5.2.13 Luk. 8.27.32</note> graues, naked and bare, and yet was ſo ragious, that no man could binde him<g ref="char:EOLhyphen"/>faſte with irons, ſtill beating himſelfe with ſtones, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.</p>
+            <p>
+               <note place="margin">Anſwered.</note>But the Lord would not ſuffer me to be ſo tor<g ref="char:EOLhyphen"/>mented, no nor to be once tempted of <hi>Satan,</hi> to hurt my ſelfe anie waie.</p>
+            <p>
+               <note place="margin">2. Reaſon.</note>Secondlie, if he had a great fauour ſhewed him, to haue ſo maine deuils caſt out of his bo<g ref="char:EOLhyphen"/>die, which did ſo torment him.</p>
+            <p>
+               <note place="margin">Anſwered.</note>Howe much more I, to be altogither preſer<g ref="char:EOLhyphen"/>ued from the ſame, hauing ſo deepelie treſpaſ<g ref="char:EOLhyphen"/>ſed, as before.</p>
+            <p>
+               <note place="margin">3. reaſon.</note>There is no record nor likelihood, that the ſinne of that man was ſo great as mine.</p>
+            <p>
+               <note place="margin">Anſwered.</note>Therefore, in ſparing mee altogither from ſuch torments, (who rather deſerued them do<g ref="char:EOLhyphen"/>ble vpon me) the ſame muſt of neceſſitie proue the Lords mercie, to be far more extended vp<g ref="char:EOLhyphen"/>on me, then towards this poore man, notwith<g ref="char:EOLhyphen"/>ſtanding the caſting out of ſo manie Deuils.</p>
+            <p>
+               <pb n="46" facs="tcp:337:27"/>And now (my Lord God) how much is thy Seruant beholding to thy <hi>Maieſtie,</hi> ſurely I can<g ref="char:EOLhyphen"/>not tell, nor no man liuing, for as thy mercie is infinite in it ſelfe, ſo is thy rewarde beſtowed vpon me, far aboue the reach of mortall mans conceit.</p>
+            <p>Shall I ſaie with <hi>Paule,</hi> that albeit I was a blaſ<g ref="char:EOLhyphen"/>phemer, a perſecutor (or a Rebel againſt <hi>Chriſt</hi>) yet becauſe I did it<note n="k" place="margin">1. Tim. 1.13</note> ignorantlie, Therefore thou (Lord) hadſt compaſſion vpon mee: or ſhall I with our firſte Parentes <hi>Adam</hi> and <hi>Eue,</hi>
+               <note n="l" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. 3.12.13.</note> excuſe my facte and laie the whole default vpon o<g ref="char:EOLhyphen"/>thers as they did: No, (God-forbidde that I ſhould doo either) for though my conſcience cleare me to be innocent in will, from anie in<g ref="char:EOLhyphen"/>tention to diſhonor <hi>Chriſt Ieſus</hi> or abuſe my <hi>So<g ref="char:EOLhyphen"/>ueraigne,</hi> yet<note n="m" place="margin">1. cor. 4.4.</note> am I not to be iuſtified thereby: neither will I excuſe, but accuſe my ſelfe ſo log as I liue, to be worthie of all torments of bodie and ſoule, both in his world and in the world to come: that the whole glorie of my preſer<g ref="char:EOLhyphen"/>uation may be ſtill aſcribed to the Lordes onlie mercie, that the ſame may bee magnified for e<g ref="char:EOLhyphen"/>uer and euer, Amen.</p>
+            <p>O what reward ſhall I giue vnto the almighty for his ſo manifeſt and great fauours extended vnto me: truelie I muſt needes acknowledge,<note place="margin">What ſhal I giue vnto God but ac<g ref="char:EOLhyphen"/>knowledge his mercies with thank<g ref="char:EOLhyphen"/>fulneſſe.</note> (and I wiſh all people to doo the like with me) that there was neuer anye mortall creature ſo much beholding to his Creator, as I humblye confes my ſelf to be; the moſt ſinfull wretch of
+<pb n="47" facs="tcp:337:27"/>
+anie man liuing, and yet haue founde more fa<g ref="char:EOLhyphen"/>uour at the hands of my God, then anye mor<g ref="char:EOLhyphen"/>tall man that euer yet liued, as none can denie, that rightlie conſider of the Lords proceedings and prouidence ouer me.</p>
+            <p>For is it not a miracle moſte ſtrange to be<g ref="char:EOLhyphen"/>hold, that the one of my Companions beeing ſtricke<g ref="char:cmbAbbrStroke">̄</g> ſtark mad as was informed, &amp; ending his life in a pitifull maner: the other arrained, con<g ref="char:EOLhyphen"/>demned and executed for high treaſon againſt hir Maieſtie, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>: and dieng moſte deſperatelie like a damned Reprobate: that I notwithſtan<g ref="char:EOLhyphen"/>ding (being the third perſon in that wofull pa<g ref="char:EOLhyphen"/>geant) ſhould be ſafelie preſerued from all dan<g ref="char:EOLhyphen"/>gers, not once to be brought before the bar of iuſtice. O then let all tongs confeſſe the<note n="n" place="margin">Pſal. 107.8</note> good<g ref="char:EOLhyphen"/>neſſe of the Lord to his, vnworthie ſeruant, and ſaie with <hi>Dauid,</hi> This is the onlie worke of the Lord,<note n="o" place="margin">Pſa. 118.23</note> and it is maruellous in our eies: yea let all the celeſtiall creatures in Heauen,<note n="p" place="margin">Pſalm. 148</note> and all ſortes of people liuing on the earth, extoll the Lords mercies and ſound out his praiſes world without end, Amen.</p>
+            <p>But conſider yet more deepelie of the lords mercie towardes me, by a temporall compari<g ref="char:EOLhyphen"/>ſon: If that wofull wretch would thinke him<g ref="char:EOLhyphen"/>ſelfe happie, that hauinge rebelled againſte his <hi>Souereigne,</hi> ſhould notwithſtanding receiue his pardon, &amp; be admitted not only into the kings ſpeciall fauour, but alſo to beholde his counte<g ref="char:EOLhyphen"/>nance dailie ſo long as he liued.</p>
+            <p>
+               <pb n="48" facs="tcp:337:28"/>O then (poore ſoule) how much am I bon<g ref="char:cmbAbbrStroke">̄</g>d and beholding dailie, to the eternall goodnes of my Sauiour Ieſus, the king of all glorie: that hauing double treſpaſſed, both againſte mine owne <hi>Souereigne,</hi>
+               <note place="margin">Specially to the repen<g ref="char:EOLhyphen"/>tant.</note> and his glorious <hi>Maieſtie.</hi> In the higheſt degree that euer did anie nowe li<g ref="char:EOLhyphen"/>uing vpon the earth, yet for all this, is not one<g ref="char:EOLhyphen"/>lie pleaſed to moue my ſaid <hi>Souereigne</hi> to ſpare my life hitherto, and to put me in hope of fur<g ref="char:EOLhyphen"/>ther fauour: But as a bleſſed example giuer to all Superiours, (<hi>To delight in mercie, more then in iuſtice</hi>) dooth (for his owne names ſake) not only remit and releaſe all my ſinnes, but further aſſureth me of his eternall fauour, to enioy his preſence for euermore, which dooth as far ſur<g ref="char:EOLhyphen"/>mount all earthlie Princes fauours, as <hi>Chriſt</hi> ex<g ref="char:EOLhyphen"/>celleth all temporall Princes, and the ioyes of Heauen, all the vaine pleaſures of this mortall life. How truelie then may I ſay with <hi>Paule,</hi> O the deepeneſſe<note n="q" place="margin">Ro. 11.33.36.</note> of Gods wiſedome and mer<g ref="char:EOLhyphen"/>cies, how vnſerchable are his iudgements, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. to him be all glorie for euer, Amen.</p>
+            <p>And if we compare the dealings of the Lord with the vſuall proceedings of worldlie Pry n<g ref="char:EOLhyphen"/>ces, we ſhall further behold Gods great fauour towards me, to exceed all the fauours of mor<g ref="char:EOLhyphen"/>tall Magiſtrates: whoe commonlye vppon the knowledge of the Treaſon by what meanes ſo<g ref="char:EOLhyphen"/>euer,<note place="margin">Princes ſil<g ref="char:EOLhyphen"/>dom pardom without to<g ref="char:EOLhyphen"/>kens of re<g ref="char:EOLhyphen"/>pentance.</note> doo after proceed to condemne the par<g ref="char:EOLhyphen"/>tie: and hardlie pardon any (as there is no rea<g ref="char:EOLhyphen"/>ſon) without ſome tokens of outwarde repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>
+               <pb n="49" facs="tcp:337:28"/>See and marke well then, The incomparable greatneſſe of the Lords kindneſſe towards me: who was not onelie pleaſed to receiue mee to mercie,<note place="margin">Se hear how Gods mer<g ref="char:EOLhyphen"/>cies ſtil pre<g ref="char:EOLhyphen"/>uente me. For Chriſte Ieſus for<g ref="char:EOLhyphen"/>gaue me, &amp; moued the Magiſtrates likewiſe to pitty mee, when I wa<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ted grace to confeſſe my ſinnes.</note> vppon my true and vnfeined repen<g ref="char:EOLhyphen"/>tance. But euen then moſt of all did he ſhewe me greateſt fauour, in ſafe preſeruing me from all extremities of ſoule and bodie, when <hi>Hacket</hi> my companion was condemned for Treaſon, and I wanted grace to acknowledge the ſame.</p>
+            <p>But the Lord had reſpect to the innocencie of my hart: for (albeit in regard of the outward offence giuen) I deſerued no fauour of God nor of man: yet I proteſt before his holy Ma<g ref="char:EOLhyphen"/>ieſtie. That when I was buſieſt in ſeruing of <hi>Sa<g ref="char:EOLhyphen"/>tan,</hi> I did thinke then moſte of all to pleaſe the lord <hi>Ieſus.</hi> And when I pronounced the heaui<g ref="char:EOLhyphen"/>eſt iudgementes againſte the Cittie of <hi>London,</hi> then did I moſt of all bemone their myſery. So innocent and guiltleſſe was I in my will,<note place="margin">Woe is mee for London did I crie in the ſtreetes, as diuers can witnes.</note> either from wilfull diſhonouring <hi>Chriſt Ieſus</hi> in Hea<g ref="char:EOLhyphen"/>uen; or to hurt the leaſt of his <hi>Seruants</hi> in earth. Oh how truelie then may I ſaie with S. <hi>Paule,</hi> Though with my members I ſerued <hi>Satan,</hi>
+               <note n="r" place="margin">Ro. 7.25.</note> yet in my minde I ſerued <hi>Chriſt Ieſus,</hi> hauing my whole intention to pleaſe him.</p>
+            <p>It was not I them, that pronounced <hi>Hacket</hi> to be <hi>Chriſt Ieſus,</hi> the iudge of the world, but<note n="s" place="margin">Rom. 7.16</note> the ſpirit of <hi>Satan,</hi> (which that wicked wretch had infuſed into me, as you haue heard before) for touching the inwarde man, the <hi>Lorde</hi> and my
+<pb n="50" facs="tcp:337:29"/>
+conſcience will ſtill beare mee recorde, that I had no minde to diſhonour <hi>Chriſt Ieſus,</hi> or to hurt anie creature: therfore had the Lord com<g ref="char:EOLhyphen"/>paſſion vppon me (not for mine innocenoie) but for his owne names ſake.</p>
+            <p>If I ſhould obſerue further, the circumſtance of time,<note place="margin">The circum<g ref="char:EOLhyphen"/>ſtance of time to bee conſidered when the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> extended his fauours towards me.</note> in the which the Lorde extended his fauours. Therein his prouidence dooth great<g ref="char:EOLhyphen"/>lie appeare in my preſeruation for Wedneſday this yeare, being the ioyefull daie of hir Maie<g ref="char:EOLhyphen"/>ſties happie &amp; proſperous raigne ouer vs: wher<g ref="char:EOLhyphen"/>by the Lord hath extended his bleſſings (aſwell apperteining to our ſoules as bodies) more bountifullie ouer this poore Hand (his name bee euerlaſtinglie praiſed therefore) then euer was ſhewed to anie other Nation ſince <hi>Chriſt</hi> was incarnate, Euen vpon the wedneſday did the Lord deſtroy that Sorcerer <hi>Hacket,</hi> and caſt his Deuiliſh ſpirit out of my bodie.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> The ſame day alſo euen the verie daie of hir Highneſſe comming to the Crowne, was my brother and wife admitted by their Honors to haue acceſſe vnto me: and vpon <hi>Aſhwedneſday</hi> the laſte (ſo called) did their Honors further grant vnto me the libertie of the Priſon. The ſame day twelue months paſt, hauing put vpp to hir Maieſtie an humble petition for a free-ſchoole at <hi>Wakefield,</hi> which through M.<note place="margin">viz my bro<g ref="char:EOLhyphen"/>ther, wife &amp; ſeruant.</note> 
+               <hi>Doc. Awbraies</hi> good care &amp; diligence was obtained vnder hir Maieſties hand verie ſhortlie after.</p>
+            <p>If I ſhould note further the poore and weak
+<pb n="51" facs="tcp:337:29"/>
+means which the Lord did bleſſe in managing my cauſe: It woulde amplifie the greatneſſe of Gods fauour towards me.</p>
+            <p>Thus may al men plainelie ſee and perceiue,<note place="margin">No mortall creature can rightlie de<g ref="char:EOLhyphen"/>ſcribe howe much I am bounden vn to the Lord.</note> that I am verie deepelie bounden to the Lord: but neither they nor I can tell howe muche, or ſound the bottom of his compaſſions towards me (except we could deſcribe the torments of hell, from which by <hi>Chriſtes</hi> power I am ſafelie deliuered) or rightlie conſider of the ioyes of heauen (which no mortall hart is able to<note n="t" place="margin">1. Cor. 2.9</note> con<g ref="char:EOLhyphen"/>ceiue) whereof, through the onelye merites of <hi>Chriſt Ieſus,</hi> I am moſt aſſured to be made parta<g ref="char:EOLhyphen"/>ker, bicauſe his holie ſpirite<note n="v" place="margin">2. cor. 13.5.</note> dwelleth within me.</p>
+            <p>O my ſoule therefore praiſe thou the Lorde, † &amp; all that<note n="w" place="margin">Pſalm. 103</note> is within me bleſſe his holie name: O my ſoule againe magnifie the Lord, and for<g ref="char:EOLhyphen"/>get not his benefites, extended vnto thee, but talke and meditate<note n="x" place="margin">Pſ.34.1.2.3</note> of his louinge kindneſſe all the daie long, yea let his praiſes bee euer in thy mouth, and prouoke all others to magnifie the Lord for deliuering thee from the<note n="y" place="margin">Pſal. 30.3.</note> nethermoſt hell, which thou ſo iuſtlie haddeſt deſerued.</p>
+            <p>And now what ſhoulde I ſaie for her Maie<g ref="char:EOLhyphen"/>ſties pardon,<note place="margin">Concerning my pardon</note> the booke being drawn vp for hir highneſſe to ſigne, I know (O Lord God) that the bleſſing thereof muſt proceed from<note n="z" place="margin">lam. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17.</note> thee: if thou wilt be pleaſed the grant ſhall paſſe, thy holie name be bleſſed: and if that thou wilte not have the ſame to paſſe, Thy Name
+<pb n="52" facs="tcp:337:30"/>
+be euer bleſſed: If hir Maieſtie will freely ſigne the ſame, the Lord preſerue hir Maieſtie: and if hir Maieſtie will not ſigne the ſame, yet (the Lord my God) ſtill preſerue her Maieſtie, whi<g ref="char:EOLhyphen"/>ther ſhee be pleaſed to take or ſpare my life, I do freelie offer it to her Maieſties pleaſure, pro<g ref="char:EOLhyphen"/>teſting vnfeinedlie in the preſence of God (as I haue doone alreadie vnto all their Honours: That if it ſhall pleaſe hir Maieſtie to ſpare my life, I will become an enimie to Satan and his kingdome,<note place="margin">My proteſta<g ref="char:EOLhyphen"/>tion with humble re<g ref="char:EOLhyphen"/>queſt, that al Chriſtia<g ref="char:cmbAbbrStroke">̄</g>s will retaine me againe into their fauor.</note> and oppoſe my ſelfe againſt all He<g ref="char:EOLhyphen"/>retikes, Sciſmatikes, Sectaries and Enimies to God and her Maieſtie, euen to the vttermoſt of my power, ſo long as I liue. And whatſoeuer ſhall be wanting, to expreſſe my loue to God, his Church, my <hi>Soueraigne</hi> and Countrie, du<g ref="char:EOLhyphen"/>ring my life, I do humblie deſire my death may fulfill: that more glorie euery way may redou<g ref="char:cmbAbbrStroke">̄</g>d to the Lord in my preſeruation.</p>
+            <p>To this ende onlie, I doo further craue the dailie aſſiſtance of all Gods ſeruauntes, to bee thankfull vnto God for my preſeruation, and to pray in like ſort,<note place="margin">I deſire all people, to giue god his due praiſe.</note> that the ſame may redound to his further glorie. For howeſoeuer I confeſſe my ſelfe vnworthie any fauor, yet is God moſt worthie of all honour and glorie, yea euen for his almightie ſtrange protecting me. And thoſe that in this worlde will approue themſelues to belong to his kingdome,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Point.</note> they cannot but re<g ref="char:EOLhyphen"/>ioice for the bringing home<note n="a" place="margin">Mat. 18.11 14</note> of the wanedring ſheepe, and the ſafe returne<note n="b" place="margin">Luk. 15.31</note> of the prodigall
+<pb n="53" facs="tcp:337:30"/>
+ſonne, who humbly deſireth that his wofull fall may teache others wiſedome, to ſtand ſo ſtrongly againſt all the mightie aſſaultes of Sa<g ref="char:EOLhyphen"/>tan, that if it be poſſible<note n="c" place="margin">1. Cor. 10.12.</note> they may not fall, or being caſt downe of weakeneſſe, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. They may be againe raiſed vp by the Lord, that himſelfe a<g ref="char:EOLhyphen"/>lone may haue the whol praiſe of their preſerua<g ref="char:EOLhyphen"/>tion. And becauſe <hi>ſatan,</hi> is by name, nature, and continuall practiſe, the mortall ennemie to all mankinde, bearing malice chiefly againſt thoſe perſons,<note place="margin">Satan, doth moſte ma<g ref="char:EOLhyphen"/>lice thoſe, that bee moſt godly</note> (to bring them to deſtruction) who liue moſte vprightly, and ſeeke the honour of God vnfeinedly: as may appeare by his firſt aſ<g ref="char:EOLhyphen"/>ſaulting our Parents in <hi>Paradiſe:</hi> by his falſe ac<g ref="char:EOLhyphen"/>cuſing<note n="d" place="margin">Iob. 1 8.10.</note> the iuſt man <hi>Iob:</hi> and by his tempting of our<note n="e" place="margin">Mat. 4, 1.</note> ſauiour <hi>Chriſt,</hi> (who onely was able and ouercame his forces, that he might deliuer vs in all diſtreſſe:) ſo as wee (being comforted<note n="f" place="margin">2. Cor. 1.3.4.</note> and ſupported) might be able and readie (after his good example) to comfort others in their extremities, ſo much as we may.</p>
+            <p>Therefore according to my ſmall abilitie, hauing more experience of mine owne weake<g ref="char:EOLhyphen"/>neſſe, and the malice of <hi>ſatan,</hi> then anie other mortall creature, (as by reading of this ſtorie may plainly appeare,) I will indeuour to diſco<g ref="char:EOLhyphen"/>uer ſome practiſes vſed by <hi>ſatan</hi> to abuſe the ſimple, either by fowle or faire meanes, as they ſay.</p>
+            <p>And firſt, concerning the groſſe maner of temptations,<note place="margin">Satan vſeth two waies to aſſault al</note> 
+               <hi>ſatan</hi> hath two waies to aſſault all
+<pb n="54" facs="tcp:337:31"/>
+people, the one is,<note place="margin">people by a corrupt re<g ref="char:EOLhyphen"/>ligion, or a bad life.</note> to profeſſed falſe religion contrarie to Gods word: The other is to pro<g ref="char:EOLhyphen"/>phane true religion, with a corrupt life, if he get a man once into either of theſe holdes, hee will hardly be caſt out.</p>
+            <p>As for example, the profeſſion of Poperie, is a falſe Religion,<note place="margin">The religi<g ref="char:EOLhyphen"/>on of Rome deſcribed.</note> contrarie to the worde: be<g ref="char:EOLhyphen"/>cauſe it g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eth the honour of mans ſaluation in part, or in the whole, eyther to mans owne merites in this life,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a<g ref="char:EOLhyphen"/>bominatio<g ref="char:cmbAbbrStroke">̄</g>.</note> or elſe to his ſufferings after this life.</p>
+            <p>As their doctrine of the workes of <hi>ſupererro<g ref="char:EOLhyphen"/>gation,</hi> &amp; their feined purgatory doth approue, (being both derogatorie to the pretious me<g ref="char:EOLhyphen"/>rites and mercies of <hi>Chriſt,</hi>
+               <note n="g" place="margin">Ioh. 3.16 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 18. Act 4.12. &amp; 10.43 Rom. 5.6.11.</note> wherin onely the ſcripture planteth mans ſaluation)</p>
+            <p>The former is falſly called the treaſurie of the Church, which teacheth that men may liue ſo holily in this worlde, as they may deſerue a higher place in heauen for themſelves and their friendes. The Apoſtles concluding with the Prophets, that all <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> like a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <note n="h" place="margin">Iſa. 64.6. I Iohn 1.10. Prou. 24.16 The Lords praier: Forgive vs our ſinnes.</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> being <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oght of our Sa<g ref="char:EOLhyphen"/>uiour to pray, (Lord forgiue vs our iſinnes) which ſhould be in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, if the doctrine of mens merites were <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what perfection ſoeuer a man wanteth in this worlde,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> hee may fulfill the ſame, ſuffering in purgatorie when this life is ended: Add then the doctrine of
+<pb n="55" facs="tcp:337:31"/>
+               <hi>Chriſtes</hi> only ſacrifice to cleanſe vs from all ſin, ſhould be in vaine.<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heb. 9.26 28. &amp; 10.14 18.</note>
+            </p>
+            <p>If the deuill make men drunke once with theſe poyſoned cuppes, (which the Pope per<g ref="char:EOLhyphen"/>ſwadeth them to bee well ſpiced,) And yet with his pardons can wipe away all: then doth, the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man poſſeſſe theſe mens houſe how holy ſoever they ſeeme in their liues but they will cauill crookedly againſt this the plaine text; and turne the holie ſcripture like a Shipmans hoſe, whereof I meane not to ſtand in this place.<note place="margin">I Iohn. 1.7. The popes pardons can take a<g ref="char:EOLhyphen"/>way all ſins, If, <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>. And al me<g ref="char:EOLhyphen"/>rites alſo.</note>
+            </p>
+            <p>If <hi>ſatan</hi> cannot preuaile in this point but that true religion gettes the vpper hand and all menne flee from their owne merites, and appeale onely to the mercies of <hi>Chriſt,</hi> As be<g ref="char:EOLhyphen"/>fore is noted: yet if hee can perſwade mee to preſume to much of mercie, an they may ſtill proſecute their beaſtly, affections, to delight in drunkenneſſe,<note place="margin">To conti<g ref="char:EOLhyphen"/>nue in ſin and pre<g ref="char:EOLhyphen"/>ſume of mercie, is dangerous.</note> whoredome, pride, oppreſſ<g ref="char:EOLhyphen"/>on, vſurie, extortion, or in anie other groſſe ſinne whatſoever, vnder pretence that God is euer mercifull, and will forgiue all men, ſo flat contrarie to his holy word, which denoun<g ref="char:EOLhyphen"/>ceth the ſentence of God<note n="k" place="margin">Galat. 19.20.21</note> curſe and ven<note n="j" place="margin">Cor. 6, 9.10.</note> geaunce, to all ſuche prophane and graceleſſe perſons (who are alſo poſſeſſed with the ſpirite of <hi>ſatan,</hi>
+               <note place="margin">Epheſ. 5.5.</note> profeſſe what religion ſoeuer they pleaſe) of both which kind of ſinners, I mean to ſpeake more herenſter God willing.</p>
+            <p>I will onely at this time, dilate a little of
+<pb n="56" facs="tcp:337:32"/>
+               <hi>ſatans</hi> maner of tempting the better ſorte, who (by Gods ſpeciall fauor) are freed and diſchar<g ref="char:EOLhyphen"/>ged from all thoſe groſſe corruptions of religi<g ref="char:EOLhyphen"/>on and life, and deſire vnfeinedly ſo to ſerue the Lord as they may beſt pleaſe him: and that by mine owne poore woefull example.</p>
+            <p>The firſt aſſault was, by ſeeking my diſcre<g ref="char:EOLhyphen"/>dite,<note place="margin">My firſt aſ<g ref="char:EOLhyphen"/>ſault, by loue and hatred.</note> id planting my affections of loue and ha<g ref="char:EOLhyphen"/>tred, as the Lord required: for <hi>ſatan</hi> ſeeing me to loue the preaching miniſterie, and to ſtand with them in their iuſt defence, againſt all ſuch perſons as ſought their iniurie: And further, howe I laboured to get ſome notorious offen<g ref="char:EOLhyphen"/>ders puniſhed: Hee did ſo procure my diſcre<g ref="char:EOLhyphen"/>dite with the worſt, that they had almoſt coſt me my life.</p>
+            <p>When <hi>ſatan</hi> could not preuaile this waie,<note place="margin">My ſecond by compaſ<g ref="char:EOLhyphen"/>ſion.</note> but that my credite ſtill increaſed with the beſt, who did ouermatch his malice againſt me. Then he fought quite to ſpoile my eſtate, for euer to diſ<g ref="char:EOLhyphen"/>able me from doing anie good, in the Church or commonwealth: and that was by abuſing my affection of compaſſion, in ſeeking to re<g ref="char:EOLhyphen"/>leeue a poore diſtreſſed gentleman beyond my abilitie, which hath brought no ſmall diſcre<g ref="char:EOLhyphen"/>dite to the Goſpell, and that greeueth my ſoule moſt of all.</p>
+            <p>For though it ſhould be graunted,<note place="margin">My conſci<g ref="char:EOLhyphen"/>ence faith ſo.</note> that the ground of my affection was laid <hi>in Gods feare,</hi> to ſeeke to reſtore a decaied meber of the church and common-wealth: yet that I ſhould ſo farre
+<pb n="57" facs="tcp:337:32"/>
+pitty his eſtate, as in labouring to vpholde it, I ſhould ouerthrow mine owne, and ſo make my ſelfe to bee worſe<note n="k" place="margin">1. Sam. 5. 8.</note> then an infidell (ſo directlie contrarie to the holie Scripture) was more then I ought to perfourme to all Chriſtians, (name<g ref="char:EOLhyphen"/>lie hauing my ſelfe, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. But in drawing great ſummes out of other mens purſſes,<note place="margin">See how far Satan pre<g ref="char:EOLhyphen"/>uailed a<g ref="char:EOLhyphen"/>gainſt me in my com<g ref="char:EOLhyphen"/>paſſion.</note> to maintain a port and needleſſe expences, more then wee both were able to beare, or to ſee repaid in any time, building our vaine hope vpon a good diſ<g ref="char:EOLhyphen"/>patch of his Court ſuites, wthout anye warrant from God at all. Heerein I ſay did Satan gro<g ref="char:EOLhyphen"/>ſlie tempt me, to enter ſo great bondes, for the repaiment of rounde ſummes, without any cer<g ref="char:EOLhyphen"/>teintie how to performe the ſame: or as yet can tell, which hath often times, and as yet daielie woundeth, my ſore broken heart, for diſcredi<g ref="char:EOLhyphen"/>ting thereby my holie profeſſion.</p>
+            <p>What means I haue vſed to diſcharge all my ſelfe,<note place="margin">I haue of<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> offered the ſale of my liuing and cannot pre<g ref="char:EOLhyphen"/>uaile.</note> euen by offring the ſale of that liuinge I haue (to leaue almoſt nothing for my wife and my ſelfe) the Lorde beſt knoweth, and others can witneſſe of credit and worſhip, yea &amp; ſome of great honour if need required. But I coulde not preuaile (ſaue to my great loſſe) my liuing ſtanding onlie, by means of a Patent for terme of my life. In regarde whereof, I doo humblie intreat all our Creditors,<note place="margin">The Lorde moue their hearts to grant my lawfull ie. queſt.</note> to beare with me for the principals to take it as I maie paie it, by proceſſe of time: And if God ſpare me life, I will ſee it diſcharged all in time, thogh the par<g ref="char:EOLhyphen"/>tie
+<pb n="58" facs="tcp:337:33"/>
+tie himſelfe for whom I was bound, ſhould pre<g ref="char:EOLhyphen"/>ten<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>t to performe the ſame.</p>
+            <p>How I was ſerued at his hands (hauing con<g ref="char:EOLhyphen"/>ſented to part with all we had, to diſcharge our conſcience with al our creditors) when he ſee I had gone ſo farre as I could, I ſpare to ſpeake for diuers reſpectes, wiſhing rather our repen<g ref="char:EOLhyphen"/>tance, might inlaie our credit with GOD and man (as I dailie deſire of the Lorde in my prai<g ref="char:EOLhyphen"/>ers) then by continuing ſtill in our ſinnes, to hinder the bleſſing of the Almightie vppon our indeuours, ſeeking by lawefull meanes our re<g ref="char:EOLhyphen"/>paire euerie wale.</p>
+            <p>Concerning that point which hath been of<g ref="char:EOLhyphen"/>ten obiected againſt me,<note place="margin">An obiecti<g ref="char:EOLhyphen"/>on, whie I left my charge.</note> by thoſe that are god<g ref="char:EOLhyphen"/>lie, graue and learned. For leauing mine owne charge, and accompanying the partie to further his cauſes, I cannot ſee (with ſubmiſſion bee it ſpoken) that I haue therin treſpaſſed otherwiſe then of frailtie, as a man maie do in his beſt in<g ref="char:EOLhyphen"/>deuors. For if a Chriſtian maie lawfullie ha<g ref="char:EOLhyphen"/>zard,<note place="margin">Anſwered.</note> or rather yeelde his life for the brethrens ſake,<note place="margin">
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.10 3.16</note> (as the Scripture dooth approue) then I hope it will not proue vnlawfull, for one child of God to do for another in caſes of neceſſitie, (not hindering therby the duties of his calling in the Church or Common-wealth) or rather hauing no ſpeciall charge <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all, but ſuch as may spare a man to performe ſuch duties.</p>
+            <p>Indeed I confeſſe, for a miniſter of the Goſ<g ref="char:EOLhyphen"/>pell,<note place="margin">Who maie not leaue</note> a Schoolmaiſter, a Mayor of a Cittie, or a
+<pb n="59" facs="tcp:337:33"/>
+nie ſuch like perſon, that hath a publike charge in the Church or Common-wealth,<note place="margin">their char<g ref="char:EOLhyphen"/>ges.</note> to leaue his publike calling, and be take himſelfe priuat<g ref="char:EOLhyphen"/>lie to follow the cauſes of one priuate perſon, is ſimplie vnlawfull.</p>
+            <p>But for a man that hath onelie a charge of a wife and familie (prouiding wel for them) or to come to my ſelfe,<note place="margin">My charge only a wife and few ſer<g ref="char:EOLhyphen"/>uants with<g ref="char:EOLhyphen"/>out children.</note> hauing no further charge, then a company of wilde deare to attend vpon, the which (by vertue of my patent) maie lawe<g ref="char:EOLhyphen"/>fullie be diſcharged by others (and better then by my ſelfe, my infirmities conſidered) I ſee no reaſon to the contrarie, (except all loue duties ſhould ſurceaſe, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>.) But that to do more good to the church and common-wealth, by ſeeking the repaire of a decaied profitable member of the ſame, I may well bee ſpared for a time from my charge, to manage his cauſe, or to helpe him with my bondes (if I had kept within my compaſſe therin) namelie conſidering theſe reaſons following.</p>
+            <p>When Satan my old enimie, coulde by no meanes preuaile, neither to diſcredite nor diſ<g ref="char:EOLhyphen"/>able me vtterly, but that (by Gods prouidence) I was like in ſhort time to paſſe through al dan<g ref="char:EOLhyphen"/>gers: then did he ſeeke to abuſe my ſimplicitie by the affection of truſt or credit in an other re<g ref="char:EOLhyphen"/>ſpect,<note place="margin">The thirde aſſalt by a<g ref="char:EOLhyphen"/>buſing my credit.</note> and ſo to plunge me at once ouer head &amp; eares, into the pit of woeful perdition, to de<g ref="char:EOLhyphen"/>ſtroie my ſoule and bodie for euer, if he coulde poſſible: and that was by making <hi>Hacket</hi> his in<g ref="char:EOLhyphen"/>ſtrument,
+<gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="62" facs="tcp:337:34"/>
+all men could ſee no other likelihoode but pre<g ref="char:EOLhyphen"/>ſent deſtruction of ſoule and bodie was like to fall vpon me, (my ſelfe preparing continually for death,<note n="o" place="margin">1. Cor. 1.9.</note> whenſoeuer I ſhoulde be thereunto called, which I expected from day to day) Be<g ref="char:EOLhyphen"/>hold the great goodneſſe of Almightie God towards me, in mouing their H H to take com<g ref="char:EOLhyphen"/>paſſion of me, not once to ſuffer me to come in place of iudgement, but further to conſent that my life ſhould be ſpared.</p>
+            <p>O then howe truely may I ſay, with the Pro<g ref="char:EOLhyphen"/>phet <hi>Dauid,</hi> The Lord is my ſhepheard: there<g ref="char:EOLhyphen"/>fore can I lacke nothing, for though I walke within the ſhade<note n="q" place="margin">Pſal. 23.4</note> of death: yet ſhall I feare no<g ref="char:EOLhyphen"/>thing for with his rod and ſhepheardes ſtaffe, I am ſtill comforted, yea he will ſtill preſerue me from euerie euill worke intended againſt mee, and reſerue me ſafely to inherite his kingdom:<note place="margin">r 2. Tim. 4.28.</note> to whom he all praiſe for euer, Amen.</p>
+            <p>Nowe haue you heard inbriefe diſcourſed, the ſubſtaunce of <hi>ſatans</hi> ſeducing mee, touch<g ref="char:EOLhyphen"/>ing that moſte horrible action committed, of proclaiming <hi>Chriſt Ieſus</hi> in Cheapeſide, <expan>
+                  <am>
+                     <g ref="char:etc"/>
+                  </am>
+                  <ex>etc</ex>
+               </expan>. With the maner of his deluding my affections from time to time, wiſhing and admoniſhing that my wofull fall, may i teach all others in time to beware, and by all good wiſedome to pre<g ref="char:EOLhyphen"/>uent <hi>ſatans</hi> practiſes for I can tell them (by tried experience) that when they themſelues do leaſt ſuſpect him, in may be hee ſeeketh moſt of all to intrap them: The Apoſtle ſaith truely,</p>
+            <p>
+               <pb n="63" facs="tcp:337:34"/>
+               <hi>Reſiſt Satan, and he will flee from you:</hi> But all the cunning <note n="s" place="margin">lam. 4.7.</note> lieth howe to knowe when hee doth tempt vs, with what weapons wee ſhould reſiſt him, &amp; at what time to put the ſame in practiſe: whereof (God willing) you ſhall heare more hereafter, as time and opportunitie will permit: In the mean ſpace let all maner people knowe thus muche, that ſeeing <hi>ſatan</hi> hath ſought ſo in<g ref="char:EOLhyphen"/>ſtantly my death and deſtruction, I proteſt my ſelf his deuoted enemie, (by the grace of God) to oppoſe my ſelfe againſt him and his king<g ref="char:EOLhyphen"/>dome, ſo much as in me lieth, euen ſo long as I liue: deſiring further, that it may not be forgot<g ref="char:EOLhyphen"/>ten what <hi>Chriſt</hi> hath done for me, that all ſorts of people may ſound out his praiſes worlde without end. And nowe my poore ſoule, con<g ref="char:EOLhyphen"/>clude and ſay with <hi>Dauid, Whom haue I in heauen but thee</hi>
+               <note n="t" place="margin">Pſal. 73.25 26.</note> (<hi>O Lord and in earth I haue none beſides thee. VVhen myne heart faileth, and my ſtrength al<g ref="char:EOLhyphen"/>ſo: euen then art thou my ſtrength &amp; my portion for euer.</hi> To this Almightie God I deſire, that all his creatures in heauen and in earth, may aſcribe all honour, and glorie for euer, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poems">
+            <pb facs="tcp:337:35"/>
+            <div type="poem">
+               <l>I humblie craue that as my fall,</l>
+               <l>Hath much offended each degree,</l>
+               <l>So my reſtore, may comfort all</l>
+               <l>That loue the Lord vnfrinedlie.</l>
+               <l>And to that end I wiſh this booke,</l>
+               <l>In all mens hands accordinglie,</l>
+               <l>That who ſoeuer on it looke,</l>
+               <l>May praiſe the Lord eternallie.</l>
+               <closer>
+                  <signed>Amen, quoth. H. A. priſoner.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:337:35"/>
+               <head>Arthingtons Lamentation being cloſe priſoner, ſome what augmented ſince his inlargement, not vnprofitable for the vſe of others.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>O Heavenly Lord O father deare, how downe thine eares to me,</l>
+                  <l>A wofull wretch that in my grief do onely ſeeke to thee.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Remember (Lord) thy promyſe made to all that ſtande in neede,</l>
+                  <l>that when they cal vpon thy name, thou wilt them helpe with ſpeede.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>The waight and burden of my ſinnes, do preſſe me downe full ſore,</l>
+                  <l>therefore (O Lord) I come to thee, that mercy haſt in ſtore,</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Confeſſing from a broken hart my greeuous ſinnes (O Lord,)</l>
+                  <l>in that I haue not led my lyfe according to thy word.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Not onely in my youthfull yeares, when frayltie bore the ſway,</l>
+                  <l>and led me captiue to his luſts, moſt apt to run aſtray</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>But ſince euen at this preſent tyme when knowledge doth abounde,</l>
+                  <l>I feele my ſelfe most prone to ſinne, which ſeekes me to confound:</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>There is no branch of thy iuſt law, but I haue broken quite,</l>
+                  <l>In hart, in thought, in worde, in deede, with all my whole delight:</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Yea, euery day and euery houre, O glorious God of myght,</l>
+                  <l>thy holy lawes I do tranſgreſſe most vilely in thy ſight.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>For why, there is within my flesh, a ſecrete luſt of ſinne,</l>
+                  <l>which stil reſiſtes thy worke of grace, &amp; woundes me with his ſting
+<note place="margin">Rom. 7. 14. 23.</note>
+                  </l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>So that the good which I would do, and gladly would fulfill,</l>
+                  <l>I am not able to performe, but euyll is with me ſtyll
+<note place="margin">Rom. 7. 14. 23.</note>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Which doth inforce my ſinfull ſoule, with ſorow to complayne,</l>
+                  <l>that I (as captiue vnto sinne) in bondage ſhould remayne.
+<note place="margin">Rom. 7. 14. 23.</note>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Yea (Lord) freely do confeſſe my beſt indeuours here</l>
+                  <l>deſerue thy earthly plague, and laſting death elſewhere.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>O then moſt vile and wicked wretch, what vengance is my right,</l>
+                  <l>For my ſo late moſt fearefull fall, in all thy peoples ſight.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>Aſſuredly (my ſouereigne Lord) my hart cannot conceiue,</l>
+                  <l>the horrour of thoſe tormentes great, that I deſerue to haue:
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>So that if thou ſhould throw me downe, the curſed feendes among</l>
+                  <l>I must confeſſe thou haſt been good, in ſparing me ſo long.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>For neuer ſince the worlde began, was euer heard or ſeene,</l>
+                  <l>the lyke ſcandall in any age, as our offence hath been;
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>A mortall man for to preſume, as thou doſt vnderſtand,</l>
+                  <l>to call himſelfe (Christ Ieſus (Lord) the Iudge with fanne in hand.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>And I my ſelfe (diſtract in mynd) a Prophet falſe by name,</l>
+                  <l>ſhould be so mad this curſed wretch Chriſt Ieſus to proclayme.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <l>Woe is my hart, woe is my ſoule, and all my ſences woe,</l>
+                  <l>for to abuſe them ſelues ſo much, to make thee Lord my foe.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>And to rebell with ſhameleſſe face agaynſt thy maieſtie,</l>
+                  <l>whom I haue found a louyng Lord, in ſtyll preſeruyng me.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <l>If I ſhould weepe both day and nyght, ſo long as I do lyue,</l>
+                  <l>my teares could be no cause (O Lord) why thou ſhouldſt me forgiue.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="22">
+                  <head>22</head>
+                  <l>Or yf I ſhould in fetters lye, whylſt Sunne and Moone do laſt,</l>
+                  <l>and as vnworthy of the lyght in dungion deepe be caſt.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="23">
+                  <head>23</head>
+                  <l>Or yf I ſhould be dayly whypt in open market place,</l>
+                  <l>to warne all people to beware how they abuſe thy grace.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="24">
+                  <head>24</head>
+                  <l>I do proteſt vnfeygnedly theſe were to lytle payne.</l>
+                  <l>ſo that I might be reconcild into thy loue agayne.
+<note place="margin">Theſe verſes are more proper to me, then to any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note>
+                  </l>
+               </lg>
+               <lg n="25">
+                  <pb facs="tcp:337:36"/>
+                  <head>25</head>
+                  <l>Oh then (deare God) what ſhould I do thy Iustice to withſtand,</l>
+                  <l>or where ſhall I a Sauiour finde, to ridde me from thy hande.</l>
+               </lg>
+               <lg n="26">
+                  <head>26</head>
+                  <l>Yf I ſhould ſue vnto thy Saints, or holy Angels moue,<note place="margin">In heauen</note>
+                  </l>
+                  <l>to begge me pardon for my ſinnes, they woulde me all reproue.</l>
+               </lg>
+               <lg n="27">
+                  <head>27</head>
+                  <l>Yf I could flee as feathered foule and hide me <note n="a" place="margin">Pſalm. 39.7.13</note> in ſome hill,</l>
+                  <l>euen there thyne eyes would ſpy me out, to worke on me thy wil.</l>
+               </lg>
+               <lg n="28">
+                  <head>28</head>
+                  <l>As for thy creatures in their kynd, they can not helpe my caſe,</l>
+                  <l>but rather ſtorme becauſe I ſought their maker to diſgrace</l>
+               </lg>
+               <lg n="29">
+                  <head>29</head>
+                  <l>And al the damned ghoſtes in hel, they watch (already bent)</l>
+                  <l>when thou wouldſt giue them leaue (O Lord) my ſoule for to tor<g ref="char:EOLhyphen"/>ment.</l>
+               </lg>
+               <lg n="30">
+                  <head>30</head>
+                  <l>O wretched man ſhould I diſpayre, becauſe my ſinnes are great,</l>
+                  <l>or feare thou wylt not heare my playntes, when I do thee intreate.</l>
+               </lg>
+               <lg n="31">
+                  <head>31</head>
+                  <l>No (Lord) thy worde and ſpirit ſayth, although mens ſinnes abound,</l>
+                  <l>yet haſt thou no delyght at all,<note n="b" place="margin">Ezec. 33.11.</note> poore ſinners to confound.</l>
+               </lg>
+               <lg n="32">
+                  <head>32</head>
+                  <l>Namely ſuch wretches as in hart, their greeuous ſinnes lament,</l>
+                  <l>and ſtryue by all good meanes they may, the ſame for to repent.</l>
+               </lg>
+               <lg n="33">
+                  <head>33</head>
+                  <l>But to that ende ſuch ſinners may finde comfort in diſtreſſe,</l>
+                  <l>thou chargeſt them to call on thee <note n="c" place="margin">Pſal. 50.15. Mat. I. 18.</note> and thou wyle ſende releaſe.</l>
+               </lg>
+               <lg n="34">
+                  <head>34</head>
+                  <l>Then looke vpon thy ſeruant (Lord) whylſt there is tyme &amp; ſpace,</l>
+                  <l>for from thy iuſtice I appeale vnto thy throne of grace:</l>
+               </lg>
+               <lg n="35">
+                  <head>35</head>
+                  <l>Beſeeching thee (O father deare) ſome pittie on me take,</l>
+                  <l>and ſaue me (not for my deſartes) but for thy mercies ſake.</l>
+               </lg>
+               <lg n="36">
+                  <head>36</head>
+                  <l>Alas what glory ſhouldſt thou gayne in damning me to hell.</l>
+                  <l>or who ſhall there thy noble factes, <note n="d" place="margin">Pſal. 88.10.11.12</note> and worthy prayſes tell:</l>
+               </lg>
+               <lg n="37">
+                  <head>37</head>
+                  <l>O blessed God thou haſt delyght thy mercies to extende</l>
+                  <l>vnto all thoſe that iudge them ſelues <note n="a" place="margin">1. Cot. 11.31.32</note> and would not thee offend:</l>
+               </lg>
+               <lg n="38">
+                  <head>38</head>
+                  <l>In trueth (my Lord) I do confeſſe of all that know thy name,</l>
+                  <l>I am the leaſt that haue done well, and moſt deſeruing blame.</l>
+               </lg>
+               <lg n="39">
+                  <head>39</head>
+                  <l>O therefore in thy iustice (Lord) <note n="f" place="margin">Pſalm. 143.2.</note> do not contende with me,</l>
+                  <l>for why as gylte in thy ſight I yeelde my ſelfe to thee:</l>
+               </lg>
+               <lg n="40">
+                  <head>40</head>
+                  <l>Requesting one thing at thy handes, that thou wouldſt thinke vpon</l>
+                  <l>thy couenant made in Ieſus Chriſt, for mans ſaluation.</l>
+               </lg>
+               <lg n="41">
+                  <head>41</head>
+                  <l>And as it then ſo pleaſed thee, when we were all thy fooes,</l>
+                  <l>to ſende him downe for vs to die, thy mercies to diſcloſe.</l>
+               </lg>
+               <lg n="42">
+                  <head>42</head>
+                  <l>That where our ſinnes (by thy iuſt dome)<note n="g" place="margin">Rom. 5.6.8. 1. Pet. 3.18.</note> deſerued laſting payne,</l>
+                  <l>his merices myght reſtore vs all into thy loue agayne.</l>
+               </lg>
+               <lg n="43">
+                  <head>43</head>
+                  <l>Of all thoſe fooes I do confeſſe my ſelfe for to be chiefe,</l>
+                  <l>then magnifie thy mercies (Lord) to ſende me ſome reliefe.</l>
+               </lg>
+               <lg n="44">
+                  <head>44</head>
+                  <l>And though my ſinnes in number paſſe the starres aboue the ſkye,</l>
+                  <l>yet (Lord) thy mercies far ſurmount<note n="h" place="margin">Pſal. 103.11.13</note> thou canſt it not deny.</l>
+               </lg>
+               <lg n="45">
+                  <head>45</head>
+                  <l>O then inceaſe my fayth in Christ, <note n="i" place="margin">Luk, 17 1.</note> ſo strongly to abounde,</l>
+                  <l>that neither Satan, death, nor hell, my wounded ſoule confound:</l>
+               </lg>
+               <lg n="46">
+                  <head>46</head>
+                  <l>But that when iuſtice grypes my hart, and cryes vengance for ſinne,</l>
+                  <l>to Chriſt his merites I may flye and pleade my light therein.</l>
+               </lg>
+               <lg n="47">
+                  <head>47</head>
+                  <l>O father make the power thereof, tranſforme my barren hart,</l>
+                  <l>that ſinne may <note n="k" place="margin">Rom. 6.1.</note> die that grace may lyue, &amp; ſtyll my ſoule conuert:</l>
+               </lg>
+               <lg n="48">
+                  <head>48</head>
+                  <l>Giue strength (O God) to ſpende my dayes according to thy worde:</l>
+                  <l>and after this lyfe, grant me heauen through Ieſus Christ my Lord.</l>
+               </lg>
+               <lg n="49">
+                  <head>49</head>
+                  <l>And ſeeing Satan ſeeketh styll Christes glory to deface,</l>
+                  <l>by castyng how to griue his ſainctes almost in euery place.<note place="margin">A prayer for the whole church.</note>
+                  </l>
+               </lg>
+               <lg n="50">
+                  <head>50</head>
+                  <l>O father deare preuent his rage and let him not preuayle,</l>
+                  <l>
+                     <pb facs="tcp:337:36"/>but though his purpoſe be to hurt, yet let his power quayle.</l>
+               </lg>
+               <lg n="51">
+                  <head>51</head>
+                  <l>Lord ſende thy Angels from aboue to pitch <note n="l" place="margin">Pſalm. 34.7.</note> their tentes below,</l>
+                  <l>to ſaue all ſuch as truſt in thee, from Satans ouerthrow.</l>
+               </lg>
+               <lg n="52">
+                  <head>52</head>
+                  <l>Beate downe his kingdome into hell, fro whence ſin firſt did ſpring,</l>
+                  <l>and ſtyll exalt thy holy worde, that Chriſt may reigne <note n="m" place="margin">2.Peti<g ref="char:EOLhyphen"/>tion.</note> as king.</l>
+               </lg>
+               <lg n="53">
+                  <head>53</head>
+                  <l>Be good (O Lord) to Iſrael, thy poore deſpyſed flocke,</l>
+                  <l>euen ſuch as ſuffer for thy name, and buylde vpon the Rocke.</l>
+               </lg>
+               <lg n="54">
+                  <head>54</head>
+                  <l>O Lord, be good vnto all thoſe that loue thee in their hart,</l>
+                  <l>and front the wayes of wickedneſſe, do more and more depart.</l>
+               </lg>
+               <lg n="55">
+                  <head>55</head>
+                  <l>So ſhall thy people all abrode, fall downe before thy face,</l>
+                  <l>and quite forſake their former ſinnes, thy Goſbell to imbrace.</l>
+               </lg>
+               <lg n="56">
+                  <head>56</head>
+                  <l>O bleſſed Lord, graunt this requeſt, thy glory to aduaunce,</l>
+                  <l>and ſtyll regarde for to maynteyne thine owneinher taunce.</l>
+               </lg>
+               <lg n="57">
+                  <head>57</head>
+                  <l>Increaſe the number <note n="n" place="margin">Pſalm. 28.9.</note> of thy ſainctes, defende them from all euyll,</l>
+                  <l>Lord giue them grace to watch and ward ſtyl to <note n="o" place="margin">Ia. 4.7.</note> reſiſt the deuyl.</l>
+               </lg>
+               <lg n="58">
+                  <head>58</head>
+                  <l>And as ſaluation is thy <note n="p" place="margin">Pſalm. 3.8.</note> gyft (O heauenly God aboue)</l>
+                  <l>beſtow vpon thy lytle flocke that bleſſing of thy loue.</l>
+               </lg>
+               <lg n="59">
+                  <head>59</head>
+                  <l>Then ſhal we al with cheareful voyce, ſound out thy worthy prayſe,</l>
+                  <l>and in thy Church with one accorde ſing Pſalmes to thee alwayes.</l>
+               </lg>
+               <lg n="60">
+                  <head>60</head>
+                  <l>All laude and prayſe (O Lord of hoſtes) I do aſcribe to thee,</l>
+                  <l>for ſending Ieſus Chriſt thy ſonne, my ſauiour for to be.</l>
+               </lg>
+               <closer>
+                  <signed>Giue God his dus, q, <hi>H. A.</hi> priſoner.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Arthingtons Thankefulneſſe, for the Lordes exceeding kindnes extended vnto him.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>OMightie God thou Lord omnipotent,</l>
+                  <l>who onely ruleſt all thinges at thy wyll,</l>
+                  <l>Whoſe throne is far abeue the fyrmament:</l>
+                  <l>and whoſe great power both heauen and earth doth fyll,</l>
+                  <l>Shall dust and earth begge of thy Maiestie,</l>
+                  <l>to ſhew how good thou hast been vnto me.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>How good (my God) graunt pardon I thee pray,</l>
+                  <l>for neyther I nor any mortall wight,</l>
+                  <l>Thy goodnes (Lord) can any way diſplay,</l>
+                  <l>as I do feele it working day and nyght.</l>
+                  <l>Yet giue meleaue to tell the best I can.</l>
+                  <l>what thou hast done for me (poore ſimple man)</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Poore man, I may not stande on euery poynt,</l>
+                  <l>for ſo I ſhoulde too much thy patience mooue,</l>
+                  <l>But ſo far forth thy doinges to acquaynt,</l>
+                  <l>as others may thy goodnes dayly loue.</l>
+                  <l>Now then with comfort let my tongue intreate,</l>
+                  <l>what thou hart done for me (poore wretch of late.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Of late my (Lord) thou knoweſt I was poſſeſt,</l>
+                  <l>with Satans ſpirite caſt into my ſoule,</l>
+                  <l>Which was as hot as fyre within my breſt;</l>
+                  <l>and dyd my ſcenſes for the tyme controll,</l>
+                  <l>Inforcing hart and ſoule for to begin,</l>
+                  <l>and moſt of all my curſed tongue to ſinne,</l>
+               </lg>
+               <lg n="5">
+                  <pb facs="tcp:337:37"/>
+                  <head>5</head>
+                  <l>To ſinne (deare God) the lyke as neuer ſeene,</l>
+                  <l>ſo great a dinner ſince the worlde began</l>
+                  <l>To lyue with breath as I vile wretch have been</l>
+                  <l>againſt Chriſt Ieſus thy beloved ſonne:</l>
+                  <l>Oh mercy graund that grace may ſtyll abounde</l>
+                  <l>for my ſupplyes as I haue alwayes founde.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>As I haue founde (good Lord) thy mercies great,</l>
+                  <l>they farre ſurmount the greatnes of my fall:</l>
+                  <l>For thou from heauen (euen from thy mercy ſeate)</l>
+                  <l>didſt giue in charge to ſaue my ſoule from thrall</l>
+                  <l>And wouldſt not let the tempt or worke his will</l>
+                  <l>as he dyd ſeeke my lyfe by death) to ſpyll.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>My lyfe to ſpyll (deare Lord) thou knoweſt it well,</l>
+                  <l>that Satan ſought to worke me further payne,</l>
+                  <l>My ſoule and body both to bryng to hen,</l>
+                  <l>that I ſhould there in tormantes ſtyll remayne:</l>
+                  <l>But thou (my God) wouldſt not it ſhould be ſo,</l>
+                  <l>but didſt reuenge me of my deadly foe.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>My deadly foe (HACKETT the Sorcerer)</l>
+                  <l>thou haſt deſtroyde and caſt into the ſake,</l>
+                  <l>For his great pride agaynſt my Sauiour,</l>
+                  <l>that durſt his name and office vndertake.</l>
+                  <l>But I (poore wretch) thou God of all glory,</l>
+                  <l>how mightely haſt thou preſerued me.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>Preſe<gap reason="illegible" resp="#PDCC" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap>e <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>of ſoule and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> (without excuſe)</l>
+                  <l>And that moſt ſtrange for mans eyes to beholde,</l>
+                  <l>that I ſhoulde be reſtorde to former vſe</l>
+                  <l>Of vnder ſtanding wit and right reaſon,</l>
+                  <l>without all helpe ſaue Ieſus Chriſt alone.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Chriſt Ieſus onely did caſt Satan out.</l>
+                  <l>Chriſt Ieſus onely ſaued me from woe,</l>
+                  <l>Chriſt Ieſus onely compaſt me about</l>
+                  <l>that Satan could not my ſtate ouerthrow</l>
+                  <l>O Ieſus Chriſt what ſhould I giue to thee</l>
+                  <l>for all thy mercies manifolde to me?</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Thy mercies (Lord) in ſtinting all this strife</l>
+                  <l>thy mercies (Lord) in ſhylding me from ſhame</l>
+                  <l>Thy mercies (Lord) in ſauing of my lyfe</l>
+                  <l>that I might lyue to prayſe thy holy name:</l>
+                  <l>O bleſſed Lord giue grace and ſtrength I pray</l>
+                  <l>thy mercies great yet further to diſplay</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>Thy mercies great my mynde for to conuert</l>
+                  <l>when worldly meanes did fayle me in my neede</l>
+                  <l>Thy mercies great in comforting my hart</l>
+                  <l>when as my ſoule with inwarde woe did bleede</l>
+                  <l>Thy mercies great which doth thereſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+                  <l>in ſauing (Lord) thy ſeruantes ſoule from <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>My ſoule from hell I freely do confeſſe</l>
+                  <l>and body both (my Lord) thou didſt me ſerue</l>
+                  <l>Yea furthermore when I was in diſtreſſe</l>
+                  <l>
+                     <pb facs="tcp:337:37"/>thou didſt prouide thy ſeruant ſhould not ſterue:</l>
+                  <l>So farre thy kindneſſe did extende to me,</l>
+                  <l>but (Lord) how ſhould I thanke thy maiestie.</l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>How ſhould I thanke thy goodnes (O my Lord)</l>
+                  <l>for all theſe tokens of thy constant loue:</l>
+                  <l>(Eſpecially, for ſending me thy worde)</l>
+                  <l>to ſtrength my ſoule that nothing could me moue:</l>
+                  <l>Aſſuredly, my hart can not conceyue,</l>
+                  <l>what thankes thou (Lord) deſerueſt for to haue.</l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>Deſetueſt (Lord) no mortall wyght can tell,</l>
+                  <l>the worthy prayſes that belong to thee.</l>
+                  <l>Except he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the paynes of hell,</l>
+                  <l>And toyes of heauen that laſt eternally:</l>
+                  <l>(Which yſ man could) yet doth thy prayſd excell,</l>
+                  <l>as farre as heauen in goodnes paſſeth hell.</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>Thy goodnes (Lord) it reacheth ouer all,</l>
+                  <l>It fylleth heauen, and earth, and all therein,</l>
+                  <l>It noriſheth all lyuing thinges mortall:</l>
+                  <l>it doth preſerue the ſtate of euery thyng,</l>
+                  <l>Then as thy goodnes all thy workes ſurmount,</l>
+                  <l>ſo can no man thy prayſes iuſt recount.</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>Thy prayſe (Lord) thy workes expreſſe the ſame.</l>
+                  <l>The Sunne the Moone, the Starres in firmament,</l>
+                  <l>And all the hoſt of heauen in ſuch good frame,</l>
+                  <l>do ſhew thou art a God omnipatent:</l>
+                  <l>But what a God in thyne eternitie,</l>
+                  <l>theſe thinges created can not teſtifie.</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>Thy creatures (Lord) do all with one conſent,</l>
+                  <l>ſay bleſſed be thy holy name therefore.</l>
+                  <l>But foraſmuch as they muſt all relent,</l>
+                  <l>they can not yeelde thy prayſes euermore.</l>
+                  <l>O then (deare God) how ſhoulde I prayſe thy Sonne,</l>
+                  <l>for working foorth my deare ſaluation.</l>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <l>Saluation (Lord) ſith that ſhall haur no ende,</l>
+                  <l>I know not how to prayſe thee for the ſame,</l>
+                  <l>But ſtyll to pray that thou wouldſt condiſcende,</l>
+                  <l>that I may lyue to glory ſie thy name.</l>
+                  <l>And when this lyfe is flytt and worne away,</l>
+                  <l>with thine elect to prayſe thy name for aye.</l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>For aye (ſweete Lord) yea and for euer more,</l>
+                  <l>let me (poore wretch) ſound out thy prayres ſtyll,</l>
+                  <l>For all thy mercies kept for me in ſtore:</l>
+                  <l>and for all thine that, do obey thy wyll,</l>
+                  <l>O ler the number styll be multiply do,</l>
+                  <l>that thy great name may be more magnified.</l>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <l>Thy name be magnified (O glorioue Lord)</l>
+                  <l>both in this worlde, and in the woulde to come,</l>
+                  <l>Of all thy creatures with one accorde,</l>
+                  <l>that are or ſhall be altered in forme:</l>
+                  <l>Let heauen, let earth let euery thyng lyuing,</l>
+                  <l>ſounde out the prayſe of Chriſt our heauenly king.</l>
+               </lg>
+               <closer>
+                  <signed>Giue God his due ꝙ <hi>Hen. Arth.</hi> priſoner.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <pb facs="tcp:337:38"/>
+               <head>A meditation of the exceeding mercies of God, the father, ſonne, and holy ghoſt, in the creation, ſalua<g ref="char:EOLhyphen"/>tion, and ſanctification of the redeemed. <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>O Mortall man, regarde and ſee,</l>
+                  <l>what God in loue hath done for thee:</l>
+                  <l>When thou wast nought but dust and earth,</l>
+                  <l>he put into thee lyfe and breath,</l>
+                  <l>And made thee like his Maiestie,</l>
+                  <l>in wyſedome and integritie.</l>
+                  <l>All creatures he made for thy ſake,</l>
+                  <l>to gouerne, vſe and thereon take:<note place="margin">The worke of the trini<g ref="char:EOLhyphen"/>tie in for<g ref="char:EOLhyphen"/>ming man<g ref="char:EOLhyphen"/>kinde.</note>
+                  </l>
+                  <l>What hart coulde thinke for thy ſafety,</l>
+                  <l>he did it graunt most wyllingly.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>When thou through ſinne wast falne from grace,</l>
+                  <l>and ſo cast downe from pleaſant place,</l>
+                  <l>into this vale of miſerie</l>
+                  <l>ſubiect to all calamitie:</l>
+                  <l>And of Gods friende was made his foe,</l>
+                  <l>in bondage ſeyll to ſinne and woe,</l>
+                  <l>God in great loue ſent downe his Sonne,</l>
+                  <l>for thy ſaluation to be borne:<note place="margin">The loue of God the fa<g ref="char:EOLhyphen"/>ther to<g ref="char:EOLhyphen"/>wardes mankinde decayed.</note>
+                  </l>
+                  <l>That ſo he might in thy nature,</l>
+                  <l>his fauour loſt agayne procure.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>So that when ſinne did ſtyll abounde,</l>
+                  <l>and Satan ſought thee to confounde,</l>
+                  <l>Gods iuſtice yeelding to the ſame,</l>
+                  <l>to throw thee downe to endles ſhame:</l>
+                  <l>Beholde the great exceeding loue,</l>
+                  <l>of Ieſus Chriſt that did him mooue,</l>
+                  <l>Thy ſauegarde man to vndertake,</l>
+                  <l>and ſo to ſuffer for thy ſake,<note place="margin">The willing obedience of Chriſte Ieſus to re<g ref="char:EOLhyphen"/>deme man<g ref="char:EOLhyphen"/>kinde.</note>
+                  </l>
+                  <l>The paynes of hell, and to fulfill</l>
+                  <l>in euery poynt his fathers wyll.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>If thou belong to God aboue,</l>
+                  <l>then doſt thou feele his greateſt loue.</l>
+                  <l>His holy ſpirite aſſures thine hart,</l>
+                  <l>that in Christes ſufferinges thou hast part:</l>
+                  <l>A ſteadfaſt fayth in Christ his death,</l>
+                  <l>this ſpirite in thee ſealed hath,</l>
+                  <l>A conſtant hope by him alone,</l>
+                  <l>for to obtayne ſaluation.</l>
+                  <l>None other Sauiour doſt thou craue,<note place="margin">The aſſu<g ref="char:EOLhyphen"/>rance of ſal<g ref="char:EOLhyphen"/>uation in the electe, wrought by the holy ghoſt.</note>
+                  </l>
+                  <l>but onely Christ thy ſoule to ſaue.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Thus muſt we all Gods people deare,</l>
+                  <l>confeſſe the loue he doth vs beare,</l>
+                  <l>In choſing vs before the rest</l>
+                  <l>and louing vs his chyldren best,</l>
+                  <l>In whom he reigneth by his worde,</l>
+                  <l>and keepes vs from the enimies ſworde:<note place="margin">The loue of God in ge<g ref="char:EOLhyphen"/>nerall, to<g ref="char:EOLhyphen"/>wardes all his ſeruants.</note>
+                  </l>
+                  <l>Whoſe prouidence styll doth well ſupply,</l>
+                  <l>for to relieue our miſerie.</l>
+                  <l>
+                     <pb facs="tcp:337:38"/>Who in all neede doth vs ſuceour,</l>
+                  <l>that we ſhould ſerue him eucrmore.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Then let this great loue of the Lord,</l>
+                  <l>mooue all our hartes to learne his worde:</l>
+                  <l>To worſhyp firſt his Maieſtie,</l>
+                  <l>with hart and ſoule moſt conſtantly.</l>
+                  <l>And next our heighbour in lyke ſort,</l>
+                  <l>to loue, maynteyne, and ſtyll comfort.</l>
+                  <l>And why lſt we lyue with hart and mynde,</l>
+                  <l>to prayſe Gods loue to vs ſo kynde.</l>
+                  <l>So long as heauen and earth doth laſt,<note place="margin">The duetle of all Chri<g ref="char:EOLhyphen"/>ſtians for al Gods mer<g ref="char:EOLhyphen"/>cies to wardes the.</note>
+                  </l>
+                  <l>and when this worlde is gon and paſt.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Let all Gods workes founde out his prayſe,</l>
+                  <l>moſt chearefully now and alwayes:</l>
+                  <l>Not onely thoſe that are mortall,</l>
+                  <l>but thoſe much more Caeleſtiall.</l>
+                  <l>And moſt of all his owne dear flocke,</l>
+                  <l>that are ſure huylt on Chriſt the Rocke.<note place="margin">Thankfulneſſe due in all, chieſly in the elect.</note>
+                  </l>
+                  <l>O let vs all with one cenſent,</l>
+                  <l>prayſe this our God omnipotent.</l>
+                  <l>for working our ſaluation,</l>
+                  <l>through ſayth in Ieſus Chriſt alone.</l>
+               </lg>
+               <closer>
+                  <signed>Giue God his due, ꝙ <hi>H. A.</hi> priſoner.</signed>
+               </closer>
+            </div>
+            <div type="poem">
+               <head>Certaine in fallible tokens of a faythfull Chriſtian, taken out of the 5. of Mat. <expan>
+                     <am>
+                        <g ref="char:etc"/>
+                     </am>
+                     <ex>etc</ex>
+                  </expan>.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>HE that is poore in ſpirite and in mynde,<note place="margin">Math. 5.</note>
+                  </l>
+                  <l>and rightly deemes his vertues to be ſmall.<note place="margin">Verſe. 3.</note>
+                  </l>
+                  <l>He that in his ſoule no goodnes can fiode,</l>
+                  <l>but doth adiudge himſelfe the worſt of all.</l>
+                  <l>O happy man preferde before the reſt,</l>
+                  <l>All thingeſh all worke togeather for his beſt.<note place="margin">The vnder<g ref="char:EOLhyphen"/>ſong.</note>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>He that doth ſeele the burden of his ſinne,<note place="margin">Rom. 8.28.</note>
+                  </l>
+                  <l>to preſſe him downe into the loweſt hell:<note place="margin">Mat 5.</note>
+                  </l>
+                  <l>And euen from thence with woofull playnt begins<note place="margin">Verſe. 4.</note>
+                  </l>
+                  <l>to mourne, that he ſo deepely did rebell.</l>
+                  <l>O happy man <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>He that is meeke and humbled in his ſoule,</l>
+                  <l>for greeuing God by former tyme myſspent.<note place="margin">Verſe. 5.</note>
+                  </l>
+                  <l>He that doth ſtriue his luſtes for to controll,</l>
+                  <l>and from within doth all his ſinnes repent.</l>
+                  <l>O happy man <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>He that doth hunger after righteouſneſſe,<note place="margin">Verſe. 6.</note>
+                  </l>
+                  <l>to know the Lord and his moſt holy wyll.</l>
+                  <l>He that in lyfe doth ſtuey to expreſſe,</l>
+                  <l>what God his worde enioyneshim to fulfill.</l>
+                  <l>O happy man <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>He that is mercifull, to remit all wronges,<note place="margin">Verſe. 7.</note>
+                  </l>
+                  <l>and tenderly teſpectes his neighbours poore.</l>
+                  <l>
+                     <pb facs="tcp:337:39"/>He that ſupplyes what ſo to them belong</l>
+                  <l>that ſo they may paſſe by the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> doore.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>He that is pure and ſingle in his hart,<note place="margin">Verſe. 8.</note>
+                  </l>
+                  <l>to ſeeke the Lord and his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> heare.</l>
+                  <l>He that from his worde wyll in no wyſe ſtart,</l>
+                  <l>for loſſe, for gayne, for fauour, or for feare.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>He that doth ſeeke to ende debate and ſtryfe,<note place="margin">Verſe. 9.</note>
+                  </l>
+                  <l>twixt man and man, ſo much as in him lyeth.</l>
+                  <l>He that hymſelf doth leade a holy lyfe,</l>
+                  <l>which God doth loue, and Satan much enuyth.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>He that doth ſuffer for the Goſpelles ſake,<note place="margin">Verſe. 10.</note>
+                  </l>
+                  <l>the loſſe of freedome, goodee, or lyfe it ſelfe:</l>
+                  <l>And chearefully his croſſe with Chriſt vp take,</l>
+                  <l>regarding not this world; nor worldly pelfe.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>He that can put vp all reprochfull wordes,<note place="margin">Verſe. 11.</note>
+                  </l>
+                  <l>with leſus Chriſt, and for his holy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</l>
+                  <l>Although ſuch tongues do cut lyke pearcing ſwordes,</l>
+                  <l>to wounde the iuſt, that wyſh and would none yll,</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>He that doth watch and pray vnto the Lord,</l>
+                  <l>to redeeme all thoſe that ſuffer for his ſake:</l>
+                  <l>And for to giue free paſſage to his worde,<note place="margin">Mat. 9.38.</note>
+                  </l>
+                  <l>our ſoules by preaching <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> for to make,</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>He that doth hate the wicked wayes of ſinne,<note place="margin">Pſal. 34.</note>
+                  </l>
+                  <l>and ſets his ſoule to ſeeke the trueth aryght.<note place="margin">verſ. 14.</note>
+                  </l>
+                  <l>He that forſakes this worlde and all therein,<note place="margin">1. Iohn. 2.</note>
+                  </l>
+                  <l>and on the Lord doth free his whole delyght.<note place="margin">verſ. 15.</note>
+                  </l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>He that doth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the pleaſures of this lyfe,<note place="margin">
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. Pet. 1.</note>
+                  </l>
+                  <l>as knowing them to ſighe agaynſt his ſoule.<note place="margin">verſ. 11.12</note>
+                  </l>
+                  <l>He that doth ſtryue to ſtynt ſuch fruiteleſſe ſtryfe,</l>
+                  <l>and all his luſtes by wyſedome ſtyll controll.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>He that in all diſtreſſe can freely ſay,</l>
+                  <l>thy wyll (O Chriſt) be euer done in me.</l>
+                  <l>I do beleeue thou wylt not me denay,<note place="margin">Iob. 19.25.27.</note>
+                  </l>
+                  <l>but ſaue my ſoule <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> eternally.</l>
+                  <l>O happy man, <expan>
+                        <am>
+                           <g ref="char:etc"/>
+                        </am>
+                        <ex>etc</ex>
+                     </expan>.</l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>He that doth long to be with Chriſt the Lord,</l>
+                  <l>where his elect his bleſſed name adore,<note place="margin">Philip, 1.23</note>
+                  </l>
+                  <l>That he with them, and all with one accorde,</l>
+                  <l>may magniſie his goodnes euerniore.</l>
+                  <l>O happy man preferde <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reſt,</l>
+                  <l>All thinges ſhall worke togeather for his beſt.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:337:39"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
